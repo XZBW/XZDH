@@ -53,3 +53,7 @@
 	五.在mapper中如何传递多个参数?
 		1. 使用 @param
 
+	六.Mybatis动态sql是做什么的？都有哪些动态sql？能简述一下动态sql的执行原理不？
+		1.以标签的形式编写动态sql，完成逻辑判断和动态拼接sql的功能。
+		2.Mybatis提供了9种动态sql标签：trim|where|set|foreach|if|choose|when|otherwise|bind。
+
