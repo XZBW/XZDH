@@ -51,9 +51,12 @@
 		3.MyBatis通过反射创建对象，并为他赋值，找不到映射关系的，无法赋值
 
 	五.在mapper中如何传递多个参数?
-		1. 使用 @param
+		使用 @param
 
 	六.Mybatis动态sql是做什么的？都有哪些动态sql？能简述一下动态sql的执行原理不？
 		1.以标签的形式编写动态sql，完成逻辑判断和动态拼接sql的功能。
 		2.Mybatis提供了9种动态sql标签：trim|where|set|foreach|if|choose|when|otherwise|bind。
 
+	七.为什么说Mybatis是半自动ORM映射工具？它与全自动的区别在哪里？
+		1.Mybatis需要手动编写sql来完成，所以，称之为半自动ORM映射工具。
+		2.Hibernate可以根据对象关系模型直接获取，所以它是全自动的
