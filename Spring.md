@@ -10,3 +10,17 @@
 	4.容器：Spring 包含并管理应用中对象的生命周期和配置。
 	5.MVC框架，M（模型层），v（展示层），c（控制层）
 
+   三. Spring由哪些模块组成?
+	Core module
+	Bean module
+	Context module
+	Expression Language module
+	JDBC module
+	ORM module
+	OXM module
+	Java Messaging Service(JMS) module
+	Transaction module
+	Web module
+	Web-Servlet module
+	Web-Struts module
+	Web-Portlet module
