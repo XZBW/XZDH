@@ -24,3 +24,6 @@
 	Web-Servlet module
 	Web-Struts module
 	Web-Portlet module
+
+   四.核心容器（应用上下文) 模块。
+	这是基本的Spring模块，提供spring 框架的基础功能，它使Spring成为一个容器。
