@@ -49,4 +49,8 @@
 	1.构造器依赖注入：构造器依赖注入通过容器触发一个类的构造器来实现的
 	2.Setter方法注入：Setter方法注入是容器通过调用无参构造器或无参static工厂 方法实例化bean之后
 
+   十一.使用Spring通过什么方式访问Hibernate?
+	控制反转 Hibernate Template和 Callback。
+	继承 HibernateDAOSupport提供一个AOP 拦截器。
+
 
