@@ -54,3 +54,12 @@
 	继承 HibernateDAOSupport提供一个AOP 拦截器。
 
 
+   十二. Spring支持的ORM
+	Hibernate
+	iBatis
+	JPA (Java Persistence API)
+	TopLink
+	JDO (Java Data Objects)
+	OJB
+
+
