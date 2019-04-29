@@ -93,4 +93,6 @@ Spring 的MVC
    
    一.什么是Spring的MVC框架？
 	Spring 的MVC框架用控制反转把业务对象和控制逻辑清晰地隔离。
-	
+		
+   二.DispatcherServlet
+	Spring的MVC框架是围绕DispatcherServlet来设计的，它用来处理所有的HTTP请求和响应。
