@@ -96,3 +96,6 @@ Spring 的MVC
 		
    二.DispatcherServlet
 	Spring的MVC框架是围绕DispatcherServlet来设计的，它用来处理所有的HTTP请求和响应。
+   
+   三.什么是Spring MVC框架的控制器？
+	提供一个访问应用程序的行为，此行为通常通过服务接口实现。控制器解析用户输入并将其转换为一个由视图呈现给用户的模型。
