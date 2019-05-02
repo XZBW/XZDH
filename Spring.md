@@ -102,3 +102,10 @@ Spring 的MVC
 
    四.@Controller 注解
 	该注解表明该类扮演控制器的角色，Spring不需要你继承任何其他控制器基类或引用Servlet API。
+  
+   五.@RequestMapping 注解
+	该注解是用来映射一个URL到一个类或一个特定的方处理法上。
+
+
+
+
