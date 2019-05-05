@@ -9,3 +9,8 @@
 	(byte、short、int、long、float、double、char、boolean)
 	对应的包装类
 	(Byte、Short、Integer、Long、Float、Double、Character、Boolean)
+
+三.String(引用类型)
+	1.String(引用类型)
+	2.StringBuilder(可对字符串进行操作，非线程安全)
+	3.StringBuffer(线程安全)
