@@ -14,3 +14,13 @@
 	1.String(引用类型)
 	2.StringBuilder(可对字符串进行操作，非线程安全)
 	3.StringBuffer(线程安全)
+
+四.Java常用的包、类、接口
+  （1）类
+	1.Object
+	2.Sting
+	3.System
+	4.file
+	5.FileInputStream
+	6.Date
+	7.Long
