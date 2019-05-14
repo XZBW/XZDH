@@ -75,3 +75,11 @@
 	LinkedList(用于增删多，查找少的)
 	Vector(线程安全)
 	遍历方式：(for循环，For-Each循环，Iterator(迭代器))
+
+二.map（键值对、键唯一、值不唯一）：Map集合中存储的是键值对，键不能重复，值可以重复。
+	(使用put添加数据)
+	Map实现类：HashMap(键值对，非线程同步，允许一个键为null)
+	Hashtable(HashMap的线程安全版，它支持线程的同步，键值不能为null)
+	LinkedHashMap(保存了记录的插入顺序，有序，非线程安全)
+	TreeMap(能够根据键进行排序，默认是按键值的升序排序（自然顺序），非线程同步)
+	遍历方式：(For-Each循环，Iterator(迭代器))
