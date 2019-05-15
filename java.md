@@ -83,3 +83,9 @@
 	LinkedHashMap(保存了记录的插入顺序，有序，非线程安全)
 	TreeMap(能够根据键进行排序，默认是按键值的升序排序（自然顺序），非线程同步)
 	遍历方式：(For-Each循环，Iterator(迭代器))
+
+三.set（无序、不能重复）：Set里存放的对象是无序，不能重复的
+	(使用add添加数据)
+	HashSet(无序，不重复，非线程安全)
+	LinkedHashSet(有序，非线程安全)
+	遍历方式：(for循环，For-Each循环，Iterator(迭代器))
