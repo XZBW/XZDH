@@ -89,3 +89,7 @@
 	HashSet(无序，不重复，非线程安全)
 	LinkedHashSet(有序，非线程安全)
 	遍历方式：(for循环，For-Each循环，Iterator(迭代器))
+
+四.Iterator(迭代器)！	
+	Iterator：可用来遍历Set和List集合(向前遍历)
+	ListIterator：只能遍历List集合(双向遍历，多了对集合数据的增删改查功能)
