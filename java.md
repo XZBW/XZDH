@@ -164,3 +164,10 @@ spring的目的
 （3）Sping的缺点
 	缺少一个公用控制器
 	Spring不支持分布式
+
+（4）springmvc的工作原理
+	简说：用户发送一个请求，然后控制器接受请求交给模型层处理，然后返回一个处理结果给控制器
+	      控制器进行视图渲染，然后再展示给用户
+	M-Model 模型（完成业务逻辑：有javaBean构成，service+dao+entity）
+	V-View 视图（做界面的展示  jsp，html……）
+	C-Controller 控制器（接收请求—>调用模型—>根据结果派发页面）
