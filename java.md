@@ -171,3 +171,6 @@ spring的目的
 	M-Model 模型（完成业务逻辑：有javaBean构成，service+dao+entity）
 	V-View 视图（做界面的展示  jsp，html……）
 	C-Controller 控制器（接收请求—>调用模型—>根据结果派发页面）
+
+（5）springbean的生命周期
+	Spring Bean的完整生命周期从创建Spring容器开始，直到最终Spring容器销毁Bean
