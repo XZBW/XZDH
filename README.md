@@ -9,8 +9,8 @@
 - [NODE中文社区](https://cnodejs.org/)
 
 ## Mysql
-> [Mysql官网](https://www.mysql.com/)
-> [连接Mysql出现时区对不上(The server time zone value '?й???????')报错](https://blog.csdn.net/mk1843109092/article/details/102652767)
+> + [Mysql官网](https://www.mysql.com/)
+> + [连接Mysql出现时区对不上(The server time zone value '?й???????')报错](https://blog.csdn.net/mk1843109092/article/details/102652767)
 
 ## Linux
 > 开发工具安装
@@ -20,7 +20,7 @@
 > 官方文档
 > + [Spring-Cloud官方文档](https://spring.io/projects/spring-cloud/)
 > + [Spring-Cloud-ALibaba官方文档](https://spring.io/projects/spring-cloud-alibaba)
-> 
+
 ## Spring-Cloud-ALibaba(Nacos服务注册发现)
 > + [Nacos中文官网](https://nacos.io/zh-cn/)
 > + [Nacos1.4.3下载](https://github.com/alibaba/nacos/releases/tag/1.4.3)
