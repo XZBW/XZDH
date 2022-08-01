@@ -9,7 +9,12 @@
 - [NODE中文社区](https://cnodejs.org/)
 
 ## Mysql
+> [Mysql官网](https://www.mysql.com/)
 > [连接Mysql出现时区对不上(The server time zone value '?й???????')报错](https://blog.csdn.net/mk1843109092/article/details/102652767)
+
+## Linux
+> 开发工具安装
+> + [CentOS7安装MySQL8.0.28(教学视屏)](https://www.bilibili.com/video/BV1qS4y1h77S?spm_id_from=333.337.search-card.all.click&vd_source=4f10ac1b3ab764a60d843b3bf8c01963)
 
 ## Spring-Cloud
 > 官方文档
