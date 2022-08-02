@@ -16,6 +16,7 @@
 > Linux相关内容
 > + [VMware Workstation Pro v16.2.0 官方完整版(附永久激活密钥)](http://www.usbmi.com/932.html)
 > + [Linux目录解析之/usr与/opt与/dev](https://blog.csdn.net/w2009211777/article/details/123853355)
+> + [linux-vim快捷键](https://blog.csdn.net/sinat_36670490/article/details/118500419)
 > 
 > 开发工具安装
 > + [CentOS7安装MySQL8.0.28(教学视屏)](https://www.bilibili.com/video/BV1qS4y1h77S?spm_id_from=333.337.search-card.all.click&vd_source=4f10ac1b3ab764a60d843b3bf8c01963)
