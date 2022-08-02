@@ -13,6 +13,8 @@
 > + [连接Mysql出现时区对不上(The server time zone value '?й???????')报错](https://blog.csdn.net/mk1843109092/article/details/102652767)
 
 ## Linux
+> Linux相关内容
+> + [Linux目录之/usr与/opt与/dev](https://blog.csdn.net/w2009211777/article/details/123853355)
 > 开发工具安装
 > + [CentOS7安装MySQL8.0.28(教学视屏)](https://www.bilibili.com/video/BV1qS4y1h77S?spm_id_from=333.337.search-card.all.click&vd_source=4f10ac1b3ab764a60d843b3bf8c01963)
 
