@@ -14,6 +14,7 @@
 
 ## Linux
 > Linux相关内容
+> + [VMware Workstation Pro v16.2.0 官方完整版(附永久激活密钥)](http://www.usbmi.com/932.html)
 > + [Linux目录解析之/usr与/opt与/dev](https://blog.csdn.net/w2009211777/article/details/123853355)
 > 
 > 开发工具安装
