@@ -16,9 +16,12 @@
 > + [连接Mysql出现时区对不上(The server time zone value '?й???????')报错](https://blog.csdn.net/mk1843109092/article/details/102652767)
 
 ## Linux
-> Linux相关内容
+> 虚拟机
 > + [VMware Workstation Pro v16.2.0 官方完整版(附永久激活密钥)](http://www.usbmi.com/932.html)
+> 
+> Linux相关内容
 > + [Linux目录解析之/usr与/opt与/dev](https://blog.csdn.net/w2009211777/article/details/123853355)
+> + [Linux中常用命令](https://blog.csdn.net/qq_40649503/article/details/123677656)
 > + [linux-vim快捷键](https://blog.csdn.net/sinat_36670490/article/details/118500419)
 > 
 > 开发工具安装
