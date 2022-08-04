@@ -18,12 +18,13 @@
 ## Linux
 > 虚拟机
 > + [VMware Workstation Pro v16.2.0 官方完整版(附永久激活密钥)](http://www.usbmi.com/932.html)
-> + [安装PCRE依赖](https://sourceforge.net/projects/pcre/files/pcre/)
+> + [Linux安装PCRE依赖](https://sourceforge.net/projects/pcre/files/pcre/)
 > 
 > Linux相关内容
 > + [Linux目录解析之/usr与/opt与/dev](https://blog.csdn.net/w2009211777/article/details/123853355)
 > + [Linux中常用命令](https://blog.csdn.net/qq_40649503/article/details/123677656)
-> + [linux-vim快捷键](https://blog.csdn.net/sinat_36670490/article/details/118500419)
+> + [Linux-vim快捷键](https://blog.csdn.net/sinat_36670490/article/details/118500419)
+> + [Linux安装Nginx](https://www.bilibili.com/video/BV1zJ411w7SV?p=5&spm_id_from=333.880.my_history.page.click)
 > 
 > 开发工具安装
 > + [CentOS7安装MySQL8.0.28(教学视屏)](https://www.bilibili.com/video/BV1qS4y1h77S?spm_id_from=333.337.search-card.all.click&vd_source=4f10ac1b3ab764a60d843b3bf8c01963)
