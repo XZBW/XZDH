@@ -18,6 +18,7 @@
 ## Linux
 > 虚拟机
 > + [VMware Workstation Pro v16.2.0 官方完整版(附永久激活密钥)](http://www.usbmi.com/932.html)
+> + [安装PCRE依赖](https://sourceforge.net/projects/pcre/files/pcre/)
 > 
 > Linux相关内容
 > + [Linux目录解析之/usr与/opt与/dev](https://blog.csdn.net/w2009211777/article/details/123853355)
