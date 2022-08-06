@@ -16,6 +16,8 @@
 ## Mysql
 > + [Mysql官网](https://www.mysql.com/)
 > + [连接Mysql出现时区对不上(The server time zone value '?й???????')报错](https://blog.csdn.net/mk1843109092/article/details/102652767)
+> + [MySQL错误ERROR 1046 (3D000): No database selected解决办法](https://blog.csdn.net/qq_43128354/article/details/120081214)
+> + [linux环境中执行Mysql脚本](https://www.cnblogs.com/bulesea/p/16490020.html)
 
 ## Linux
 > 虚拟机
