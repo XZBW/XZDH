@@ -41,3 +41,5 @@
 > + [Nacos的AP与CP模式的切换](https://blog.csdn.net/jmysql/article/details/123827680)（Consistency（一致性）、 Availability（可用性）、Partition tolerance（分区容错性））
 > + [Nacos配置Mysql的相关配置](https://blog.csdn.net/qq_21299835/article/details/120935616)
 > + [Nacos+Mysql部署环境(单机、集群、多集群)](https://nacos.io/zh-cn/docs/deployment.html)
+
+
