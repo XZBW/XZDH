@@ -48,4 +48,4 @@
 
 ## Sentinel(面向分布式的轻量级高可用流量控制组件)
 > + [Sentinel下载](https://github.com/alibaba/Sentinel/releases)
-> 
+> + [Sentinel的启动与运行](https://blog.csdn.net/qq_42393720/article/details/122213922)
