@@ -49,4 +49,4 @@
 ## Sentinel哨兵(面向分布式的轻量级高可用流量控制组件)
 > + [Sentinel下载](https://github.com/alibaba/Sentinel/releases)
 > + [Sentinel的启动与运行](https://blog.csdn.net/qq_42393720/article/details/122213922)
-> + [Sentinel流控教学](https://www.bilibili.com/video/BV18E411x7eT?p=115&spm_id_from=333.788.top_right_bar_window_history.content.click&vd_source=4f10ac1b3ab764a60d843b3bf8c01963)
+> + [Sentinel流控、热点、熔断](https://www.bilibili.com/video/BV18E411x7eT?p=115&spm_id_from=333.788.top_right_bar_window_history.content.click&vd_source=4f10ac1b3ab764a60d843b3bf8c01963)
