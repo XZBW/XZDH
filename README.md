@@ -46,7 +46,8 @@
 > + [Nacos配置Mysql的相关配置](https://blog.csdn.net/qq_21299835/article/details/120935616)
 > + [Nacos+Mysql部署环境(单机、集群、多集群)](https://nacos.io/zh-cn/docs/deployment.html)
 
-## Sentinel哨兵(面向分布式的轻量级高可用流量控制组件)
+## Sentinel分布式系统的流量防卫兵(面向分布式的轻量级高可用流量控制组件)
+> + [Sentinel介绍](https://github.com/alibaba/Sentinel/wiki/%E7%83%AD%E7%82%B9%E5%8F%82%E6%95%B0%E9%99%90%E6%B5%81)
 > + [Sentinel下载](https://github.com/alibaba/Sentinel/releases)
 > + [Sentinel的启动与运行](https://blog.csdn.net/qq_42393720/article/details/122213922)
 > [Sentinel流控、热点、熔断(操作详解)](https://blog.csdn.net/guan1843036360/article/details/124241795)
