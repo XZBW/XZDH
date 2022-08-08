@@ -24,7 +24,7 @@
 > + [VMware Workstation Pro v16.2.0 官方完整版(附永久激活密钥)](http://www.usbmi.com/932.html)
 > + [Linux安装PCRE依赖](https://sourceforge.net/projects/pcre/files/pcre/)
 > + [Linux安装Nginx](https://www.bilibili.com/video/BV1zJ411w7SV?p=5&spm_id_from=333.880.my_history.page.click)
-> + [CentOS7安装MySQL8.0.28(教学视屏)](https://www.bilibili.com/video/BV1qS4y1h77S?spm_id_from=333.337.search-card.all.click&vd_source=4f10ac1b3ab764a60d843b3bf8c01963)
+> + [CentOS7安装MySQL8.0.28(视频教学)](https://www.bilibili.com/video/BV1qS4y1h77S?spm_id_from=333.337.search-card.all.click&vd_source=4f10ac1b3ab764a60d843b3bf8c01963)
 > + [Linux-centos设置静态IP](https://blog.csdn.net/weixin_55821558/article/details/123819702)
 > + [Linux-centos设置静态IP（视频教学）](https://www.bilibili.com/video/BV1WY4y1H7d3?p=21&vd_source=4f10ac1b3ab764a60d843b3bf8c01963)
 
@@ -49,4 +49,5 @@
 ## Sentinel哨兵(面向分布式的轻量级高可用流量控制组件)
 > + [Sentinel下载](https://github.com/alibaba/Sentinel/releases)
 > + [Sentinel的启动与运行](https://blog.csdn.net/qq_42393720/article/details/122213922)
-> + [Sentinel流控、热点、熔断](https://www.bilibili.com/video/BV18E411x7eT?p=115&spm_id_from=333.788.top_right_bar_window_history.content.click&vd_source=4f10ac1b3ab764a60d843b3bf8c01963)
+> [Sentinel流控、热点、熔断(操作详解)](https://blog.csdn.net/guan1843036360/article/details/124241795)
+> + [Sentinel流控、热点、熔断(视频教学)](https://www.bilibili.com/video/BV18E411x7eT?p=115&spm_id_from=333.788.top_right_bar_window_history.content.click&vd_source=4f10ac1b3ab764a60d843b3bf8c01963)
