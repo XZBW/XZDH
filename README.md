@@ -55,7 +55,7 @@
 > + [sentinel持久化到Nacos](https://blog.csdn.net/qq_40777074/article/details/106860713)
 
 ## Seata开源分布式事务解决方案
-> 什么是Seata
+> ## 什么是Seata
 > 
 > Seata是由1加3的组件组成，1是指全局唯一事务ID，3是指三大组件TC事务协调（维护全局事务状态）,TM(控制全局事务发起最终提交或者回滚).RM(控制分支事务，负责分支注册协调)
 >
