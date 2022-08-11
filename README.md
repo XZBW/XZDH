@@ -72,8 +72,7 @@
 > 5.TC调动XID下管辖的全部分支事务完成提交或回滚请求;
 
 ## 使用方式
-
-> @GlobalTransactional
+> @GlobalTransactional注解在方法上
 > 
 > + [Seata官网](https://seata.io/zh-cn/)
 > + [Seata官方文档](https://seata.io/zh-cn/docs/overview/what-is-seata.html)
