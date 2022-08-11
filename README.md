@@ -61,10 +61,15 @@
 >
 > Seata工作流程
 > 1.TM向TC申请开启一个全局事务，全局事务创建成功并生成一个全局唯一的XID;
+> 
 > 2.XID在微服务调用链路的上下文中传播;
+> 
 > 3.RM向TC注册分支事务，将其纳入XID对应全局事务的管辖;
+> 
 > 4.TM向TC发起针对XID的全局提交或回滚决议;
+> 
 > 5.TC调动XID下管辖的全部分支事务完成提交或回滚请求;
+> 
 > + [Seata官网](https://seata.io/zh-cn/)
 > + [Seata官方文档](https://seata.io/zh-cn/docs/overview/what-is-seata.html)
 > + [Seata下载](https://github.com/seata/seata/tags)
