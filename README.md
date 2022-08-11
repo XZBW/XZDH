@@ -74,3 +74,5 @@
 > + [Seata官网](https://seata.io/zh-cn/)
 > + [Seata官方文档](https://seata.io/zh-cn/docs/overview/what-is-seata.html)
 > + [Seata下载](https://github.com/seata/seata/tags)
+> + [Seata1.5版本搭建,结合nacos](https://www.jianshu.com/p/37c3640284cc)
+> + [Seata1.5版本搭建Could not create connection to database server解决方法](https://blog.csdn.net/NO1_UNDERDOG/article/details/110675147)
