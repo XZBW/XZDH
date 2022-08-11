@@ -54,6 +54,7 @@
 > + [Sentinel流控、热点、熔断(视频教学)](https://www.bilibili.com/video/BV18E411x7eT?p=115&spm_id_from=333.788.top_right_bar_window_history.content.click&vd_source=4f10ac1b3ab764a60d843b3bf8c01963)
 > + [sentinel持久化到Nacos](https://blog.csdn.net/qq_40777074/article/details/106860713)
 
+## #Seata是由1加3的组件组成，1是指全局唯一事务ID，3是指三大组件TC事务协调（维护全局事务状态）,TM(控制全局事务发起最终提交或者回滚).RM(控制分支事务，负责分支注册协调)#
 ## Seata开源分布式事务解决方案
 > + [Seata官网](https://seata.io/zh-cn/)
 > + [Seata官方文档](https://seata.io/zh-cn/docs/overview/what-is-seata.html)
