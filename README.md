@@ -53,3 +53,8 @@
 > [Sentinel流控、热点、熔断(操作详解)](https://blog.csdn.net/guan1843036360/article/details/124241795)
 > + [Sentinel流控、热点、熔断(视频教学)](https://www.bilibili.com/video/BV18E411x7eT?p=115&spm_id_from=333.788.top_right_bar_window_history.content.click&vd_source=4f10ac1b3ab764a60d843b3bf8c01963)
 > + [sentinel持久化到Nacos](https://blog.csdn.net/qq_40777074/article/details/106860713)
+
+## Seata开源分布式事务解决方案
+> + [Seata官网](https://seata.io/zh-cn/)
+> + [Seata官方文档](https://seata.io/zh-cn/docs/overview/what-is-seata.html)
+> + [Seata下载](https://seata.io/zh-cn/blog/download.html)
