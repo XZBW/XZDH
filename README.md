@@ -37,6 +37,7 @@
 > 官方文档
 > + [Spring-Cloud官方文档](https://spring.io/projects/spring-cloud/)
 > + [Spring-Cloud-ALibaba官方文档](https://spring.io/projects/spring-cloud-alibaba)
+> + [spring-cloud组件版本关系说明](https://github.com/alibaba/spring-cloud-alibaba/wiki/%E7%89%88%E6%9C%AC%E8%AF%B4%E6%98%8E)
 
 ## Spring-Cloud-ALibaba(Nacos服务注册发现)
 > + [Nacos中文官网](https://nacos.io/zh-cn/)
@@ -77,3 +78,4 @@
 > + [Seata部署所需建表sql](https://blog.csdn.net/weixin_49686768/article/details/118057890)
 > + [Seata1.5版本搭建,结合nacos](https://www.jianshu.com/p/37c3640284cc)
 > + [Seata1.5版本搭建Could not create connection to database server解决方法](https://blog.csdn.net/NO1_UNDERDOG/article/details/110675147)
+>
