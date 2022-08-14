@@ -13,9 +13,9 @@
 ## JAVA
 > ## 什么是序列化
 > 序列化： 将 java对象信息 转换成 二进制数据流的过程
-
+>
 > 反序列化： 将 二进制数据流 转换成 java对象信息的过程
-
+>
 > + [JAVA对数据按照日期排序，同一天为一组](https://blog.csdn.net/dadada_youzi/article/details/109092639)
 
 ## Mysql
