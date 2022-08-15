@@ -39,7 +39,7 @@
 > + [Linux-vim快捷键](https://blog.csdn.net/sinat_36670490/article/details/118500419)
 
 ## Docker镜像
-> + [Centos7安装Docker](https://docs.docker.com/engine/install/centos/)
+> + [Centos7安装Docker官方文档](https://docs.docker.com/engine/install/centos/)
 
 ## Spring-Cloud
 > 官方文档
