@@ -40,6 +40,7 @@
 
 ## Docker镜像
 > + [Centos7安装Docker官方文档](https://docs.docker.com/engine/install/centos/)
+> + [Docker安装视频教学](https://www.bilibili.com/video/BV1gr4y1U7CY?p=11&spm_id_from=333.880.my_history.page.click&vd_source=4f10ac1b3ab764a60d843b3bf8c01963)
 
 ## Spring-Cloud
 > 官方文档
