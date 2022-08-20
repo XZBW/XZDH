@@ -41,6 +41,7 @@
 ## Docker镜像
 > + [Centos7安装Docker官方文档](https://docs.docker.com/engine/install/centos/)
 > + [Docker安装视频教学](https://www.bilibili.com/video/BV1gr4y1U7CY?p=11&spm_id_from=333.880.my_history.page.click&vd_source=4f10ac1b3ab764a60d843b3bf8c01963)
+> + [Dockerch常用命令](https://blog.csdn.net/leilei1366615/article/details/106267225)
 
 ## Spring-Cloud
 > 官方文档
@@ -88,6 +89,3 @@
 > + [Seata1.5版本搭建,结合nacos](https://www.jianshu.com/p/37c3640284cc)
 > + [Seata1.5版本搭建Could not create connection to database server解决方法](https://blog.csdn.net/NO1_UNDERDOG/article/details/110675147)
 > + [Seata0.9.0版本搭建Could not create connection to database server解决方法](https://blog.csdn.net/stephen_curry300/article/details/121585707)
-  
-  
-     
