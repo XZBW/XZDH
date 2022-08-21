@@ -42,7 +42,7 @@
 > + [Centos7安装Docker官方文档](https://docs.docker.com/engine/install/centos/)
 > + [Docker安装视频教学](https://www.bilibili.com/video/BV1gr4y1U7CY?p=11&spm_id_from=333.880.my_history.page.click&vd_source=4f10ac1b3ab764a60d843b3bf8c01963)
 > + [Dockerch常用命令](https://blog.csdn.net/leilei1366615/article/details/106267225)
-
+> + Docker提交命令docker commit -m="vim cmd add" -a="XZBW" 094372cb612b xzbw/myubuntu1.1（注：储存库名必须小写 xzbw/myubuntu1.1）
 ## Spring-Cloud
 > 官方文档
 > + [Spring-Cloud官方文档](https://spring.io/projects/spring-cloud/)
