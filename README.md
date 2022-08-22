@@ -47,6 +47,9 @@
 > + [DockerHub官方容器镜像查找](https://hub.docker.com/search?q=tomcat)
 > + [外部链接docker-Mysql5.7 解决2003错误](https://www.php.cn/docker/493657.html)
 
+## Redis
+> + [redis下载](http://redis.io/download)
+
 ## Spring-Cloud
 > 官方文档
 > + [Spring-Cloud官方文档](https://spring.io/projects/spring-cloud/)
