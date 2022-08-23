@@ -49,6 +49,7 @@
 > + [外部链接docker-Mysql5.7 解决2003错误](https://www.php.cn/docker/493657.html)
 
 ## Redis
+> + redis集群有16384个哈希槽
 > + [redis下载](http://redis.io/download)
  
 ## Spring-Cloud
