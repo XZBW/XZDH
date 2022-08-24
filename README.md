@@ -51,6 +51,7 @@
 > + [Dockerfile保留字和使用DockerFile构建镜像](https://blog.csdn.net/Session_s/article/details/120147613)
 > + [Dockerfile保留字详解](https://blog.csdn.net/weixin_38299159/article/details/120429294)
 > + [Dockerfile保留字简介](https://www.cnblogs.com/asxf/p/11214003.html)
+> + [自定义Dockerfile搭建centos7容器Failed to download metadata for repo ‘appstream‘: Cannot prepare internal mirrorlist报错解决](https://blog.csdn.net/m0_47860792/article/details/123659933)
 > + [DockerHub官方容器镜像查找](https://hub.docker.com/search?q=tomcat)
 > + [外部链接docker-Mysql5.7 解决2003错误](https://www.php.cn/docker/493657.html)
 
