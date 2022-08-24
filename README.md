@@ -57,7 +57,9 @@
 > + [DockerHub官方容器镜像查找](https://hub.docker.com/search?q=tomcat)
 > + [外部链接docker-Mysql5.7 解决2003错误](https://www.php.cn/docker/493657.html)
 > + [Docker network容器网络](https://blog.csdn.net/qq_42418169/article/details/119102917)
-
+> + [Docker compose官方文档（版本介绍）](https://docs.docker.com/compose/compose-file/compose-file-v3/)
+> + [Docker安装docker-compose插件](https://blog.csdn.net/qq_50661854/article/details/124453329)
+> 
 ## Redis
 > + redis集群有16384个哈希槽
 > + [redis下载](http://redis.io/download)
