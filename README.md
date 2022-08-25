@@ -78,6 +78,7 @@
 
 ## Redis
 > + redis集群有16384个哈希槽
+> + redis属于NoSQL（非关系型数据库）
 > + [redis下载](http://redis.io/download)
  
 ## Spring-Cloud
