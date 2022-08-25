@@ -63,7 +63,8 @@
 > + [Docker-Compose安装、卸载、使用详解](https://blog.csdn.net/m0_67403076/article/details/124512737)
 > + [Docker portainer 轻量级可视化应用-管理docker](https://www.portainer.io/)
 > + [Docker portainer 下载（官方文档）](https://docs.portainer.io/v/be-2.10/start/install/server/docker/linux)
-> + [Docker微服务-CIG容器监控](https://blog.csdn.net/u014225032/article/details/125232424)
+> + [Docker微服务-CIG容器监控搭建](https://blog.csdn.net/u014225032/article/details/125232424)
+> + [Docker微服务-CIG容器监控搭建（视频教学）](https://www.bilibili.com/video/BV1gr4y1U7CY?p=91&vd_source=4f10ac1b3ab764a60d843b3bf8c01963)
 
 ## Redis
 > + redis集群有16384个哈希槽
