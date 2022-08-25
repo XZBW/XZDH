@@ -92,9 +92,11 @@
 > + [Nacos+Mysql部署环境(单机、集群、多集群)](https://nacos.io/zh-cn/docs/deployment.html)
 
 ## Sentinel分布式系统的流量防卫兵(面向分布式的轻量级高可用流量控制组件)
+> ## 1.Sentine文档、下载、启动
 > + [Sentinel中文文档介绍](https://github.com/alibaba/Sentinel/wiki/%E7%83%AD%E7%82%B9%E5%8F%82%E6%95%B0%E9%99%90%E6%B5%81)
 > + [Sentinel下载](https://github.com/alibaba/Sentinel/releases)
 > + [Sentinel的启动与运行](https://blog.csdn.net/qq_42393720/article/details/122213922)
+> ## 2.Sentine的使用（流控、热点、熔断）与Nacos持久化
 > [Sentinel流控、热点、熔断(操作详解)](https://blog.csdn.net/guan1843036360/article/details/124241795)
 > + [Sentinel流控、热点、熔断(视频教学)](https://www.bilibili.com/video/BV18E411x7eT?p=115&spm_id_from=333.788.top_right_bar_window_history.content.click&vd_source=4f10ac1b3ab764a60d843b3bf8c01963)
 > + [sentinel持久化到Nacos](https://blog.csdn.net/qq_40777074/article/details/106860713)
