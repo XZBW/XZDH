@@ -115,11 +115,13 @@
 > 5.TC调动XID下管辖的全部分支事务完成提交或回滚请求;
 > ## 使用方式
 > @GlobalTransactional注解在方法上
-> 
+> ## 1.Seata官网文档
 > + [Seata官网](https://seata.io/zh-cn/)
 > + [Seata官方文档](https://seata.io/zh-cn/docs/overview/what-is-seata.html)
+> ## 2.Seata下载、安装、部署
 > + [Seata下载](https://github.com/seata/seata/tags)
 > + [Seata部署所需建表sql](https://blog.csdn.net/weixin_49686768/article/details/118057890)
+> ## 3.Seata + nacos搭建
 > + [Seata1.5版本搭建,结合nacos](https://www.jianshu.com/p/37c3640284cc)
 > + [Seata1.5版本搭建Could not create connection to database server解决方法](https://blog.csdn.net/NO1_UNDERDOG/article/details/110675147)
 > + [Seata0.9.0版本搭建Could not create connection to database server解决方法](https://blog.csdn.net/stephen_curry300/article/details/121585707)
