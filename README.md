@@ -59,7 +59,7 @@
 > + [Docker network容器网络](https://blog.csdn.net/qq_42418169/article/details/119102917)
 > + [Docker compose官方文档（版本介绍）](https://docs.docker.com/compose/compose-file/compose-file-v3/)
 > + [Docker下载安装docker-compose插件](https://docs.docker.com/compose/install/compose-plugin/)
-> 
+> + [Docker离线下载安装docker-compose插件github](https://github.com/docker/compose/releases)
 ## Redis
 > + redis集群有16384个哈希槽
 > + [redis下载](http://redis.io/download)
