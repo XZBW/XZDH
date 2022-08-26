@@ -80,7 +80,9 @@
 > + redis集群有16384个哈希槽
 > + redis属于NoSQL（非关系型数据库）常见的NoSQL有Redis、MongoDB、HBase、Neo4j(图形数据库)
 > + redis属于单线程操作也叫作原子操作，不会被线程调度机制打断的操作。（多线程中不能被其他线程打断就叫做原子操作）
+> ## 1.redis下载
 > + [redis下载](http://redis.io/download)
+> ## 2.redis常用命令及“5种基础”数据类型+“3种特殊”数据类型介绍及相关命令与数据结构
 > + [redis常用命令](https://blog.csdn.net/weixin_60610547/article/details/125438883)
 > + [redis常用五大数据类型（string、list、set、Hash、Zset）与对应数据结构及相关命令详解](https://blog.csdn.net/m0_62436868/article/details/125241549)
 > + [Redis“5种基础”数据类型+“3种特殊”数据类型（bitmaps位操作字符串、hyperloglog基数运算、geospatial根据地理信息经纬度运算）介绍及相关命令](https://baijiahao.baidu.com/s?id=1709170155160213718&wfr=spider&for=pc)
