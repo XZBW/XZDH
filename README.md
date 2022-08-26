@@ -79,8 +79,10 @@
 ## Redis
 > + redis集群有16384个哈希槽
 > + redis属于NoSQL（非关系型数据库）常见的NoSQL有Redis、MongoDB、HBase、Neo4j(图形数据库)
+> + redis属于单线程操作也叫作原子操作，不会被线程调度机制打断的操作。（多线程中不能被其他线程打断就叫做原子操作）
 > + [redis下载](http://redis.io/download)
- 
+> + [redis常用命令](https://blog.csdn.net/weixin_60610547/article/details/125438883)
+
 ## Spring-Cloud
 > ## 1.官方文档
 > + [Spring-Cloud官方文档](https://spring.io/projects/spring-cloud/)
