@@ -18,6 +18,10 @@
 >
 > 反序列化： 将 二进制数据流 转换成 java对象信息的过程
 >
+> ## Jrestcontroller和controller区别是什么?
+> + 1.用Controller配合视图解析器才能返回到指定页面。在对应的方法上加上ResponseBody注解才能返回JSON，XML或自定义mediaType的内容到页面。
+> + 2.不可以只用RestController注解Controller，因为这样会让Controller中的内容不能返回jsp页面，而且会直接返回Return里的内容。
+> + 3.RestController相当于Controller和ResponseBod两者合并起来的作用。
 > + [JAVA对数据按照日期排序，同一天为一组](https://blog.csdn.net/dadada_youzi/article/details/109092639)
 
 ## Mysql
