@@ -94,6 +94,7 @@
 > + [redis常用命令](https://blog.csdn.net/weixin_60610547/article/details/125438883)
 > + [redis常用五大数据类型（string、list、set、Hash、Zset）与对应数据结构及相关命令详解](https://blog.csdn.net/m0_62436868/article/details/125241549)
 > + [Redis“5种基础”数据类型+“3种特殊”数据类型（bitmaps位操作字符串、hyperloglog基数运算、geospatial根据地理信息经纬度运算）介绍及相关命令](https://baijiahao.baidu.com/s?id=1709170155160213718&wfr=spider&for=pc)
+> + [Redis事务的概念与相关命令[multi(标记开始事务)、exec(执行事务)、discard(取消事务)]](https://blog.csdn.net/weixin_37548768/article/details/124538778)
 
 ## Spring-Cloud
 > ## 1.官方文档
