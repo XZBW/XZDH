@@ -106,6 +106,7 @@
 > ## 5.Redis主从架构与哨兵模式
 > + [Redis 集群 主从模式(在从机上执行slaveof 主机ip 端口号)](https://blog.csdn.net/zhangxueleishamo/article/details/121470922)
 > + [Redis主从架构和哨兵架构模式](https://blog.csdn.net/weixin_38192427/article/details/108458490)
+> + [Redis集群+哨兵模式](https://blog.csdn.net/hyj_king/article/details/105145196)
 
 ## Spring-Cloud
 > ## 1.官方文档
