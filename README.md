@@ -99,12 +99,12 @@
 > + [Redis事务的概念与相关命令[multi(标记开始事务)、exec(执行事务)、discard(取消事务)]](https://blog.csdn.net/weixin_37548768/article/details/124538778)
 > + [Redis—“事务“Lua脚本](https://blog.csdn.net/minghao0508/article/details/123895579)
 > + [Redis执行lua脚本](https://blog.csdn.net/weixin_46099269/article/details/124889829)
-> ## Redis持久化RDB和AOF
+> ## 4.Redis持久化RDB和AOF
 > + [Redis持久化：RDB和AOF](https://blog.csdn.net/chairongdian/article/details/124852514)
 > + [Redis的两种持久化RDB和AOF](https://blog.csdn.net/weixin_52489114/article/details/123011362)
 > + [Redis持久化AOF文件损坏修复](https://blog.csdn.net/qq_44813596/article/details/123528332)
-> ## Redis主从架构与哨兵模式
-> + [Redis 集群 主从模式](https://blog.csdn.net/zhangxueleishamo/article/details/121470922)
+> ## 5.Redis主从架构与哨兵模式
+> + [Redis 集群 主从模式(在从机上执行slaveof 主机ip 端口号)](https://blog.csdn.net/zhangxueleishamo/article/details/121470922)
 > + [Redis主从架构和哨兵架构模式](https://blog.csdn.net/weixin_38192427/article/details/108458490)
 
 ## Spring-Cloud
