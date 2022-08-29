@@ -104,6 +104,7 @@
 > + [Redis的两种持久化RDB和AOF](https://blog.csdn.net/weixin_52489114/article/details/123011362)
 > + [Redis持久化AOF文件损坏修复](https://blog.csdn.net/qq_44813596/article/details/123528332)
 > ## Redis主从架构与哨兵模式
+> + [Redis 集群 主从模式](https://blog.csdn.net/zhangxueleishamo/article/details/121470922)
 > + [Redis主从架构和哨兵架构模式](https://blog.csdn.net/weixin_38192427/article/details/108458490)
 
 ## Spring-Cloud
