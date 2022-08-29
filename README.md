@@ -95,7 +95,15 @@
 > + [redis常用命令](https://blog.csdn.net/weixin_60610547/article/details/125438883)
 > + [redis常用五大数据类型（string、list、set、Hash、Zset）与对应数据结构及相关命令详解](https://blog.csdn.net/m0_62436868/article/details/125241549)
 > + [Redis“5种基础”数据类型+“3种特殊”数据类型（bitmaps位操作字符串、hyperloglog基数运算、geospatial根据地理信息经纬度运算）介绍及相关命令](https://baijiahao.baidu.com/s?id=1709170155160213718&wfr=spider&for=pc)
+> ## 3.redis事务
 > + [Redis事务的概念与相关命令[multi(标记开始事务)、exec(执行事务)、discard(取消事务)]](https://blog.csdn.net/weixin_37548768/article/details/124538778)
+> + [Redis—“事务“Lua脚本](https://blog.csdn.net/minghao0508/article/details/123895579)
+> + [redis执行lua脚本](https://blog.csdn.net/weixin_46099269/article/details/124889829)
+> ## Redis持久化RDB和AOF
+> + [Redis持久化：RDB和AOF](https://blog.csdn.net/chairongdian/article/details/124852514)
+> + [Redis的两种持久化RDB和AOF](https://blog.csdn.net/weixin_52489114/article/details/123011362)
+> + [Redis持久化AOF文件损坏修复](https://blog.csdn.net/qq_44813596/article/details/123528332)
+>
 
 ## Spring-Cloud
 > ## 1.官方文档
