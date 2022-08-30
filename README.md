@@ -136,7 +136,7 @@
 > + 2.不会发生死锁：设置锁的同时设置过期时间保证不会死锁。（设置锁时同时设置超时时间）
 > + 3.加锁解锁都必须是同一个客户端，客户端自己不能把别人加的锁给解了。（使用uuid）
 > + 4.加锁和解锁都必须具有原子性（可以使用lua脚本执行）
-> ## Redis新功能之ACL、IO多线程(IO多线程只是用来处理网络数据的读写和协议解析，执行命令仍然是单线程)
+> ## Redis新功能之ACL、IO多线程（IO多线程只是用来处理网络数据的读写和协议解析，执行命令仍然是单线程）
 > + [Redis之ACL](https://blog.csdn.net/qq_21335855/article/details/121783765)
 > + [Redis 6.0 访问控制列表ACL说明](https://blog.csdn.net/qq_29235677/article/details/121475204)
 > + [redis io多线程](https://blog.csdn.net/congchp/article/details/122740115)
