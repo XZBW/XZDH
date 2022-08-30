@@ -16,6 +16,7 @@
 > ## 1.初始RabbitMQ
 > + [RabbitMQ官网下载](https://rabbitmq.com/download.html)
 > + [RabbitMQ详解](https://blog.csdn.net/qq_48721706/article/details/125194646)
+> + [Windows环境下RabbitMQ的启动和停止命令](https://blog.csdn.net/m0_67402341/article/details/123827559)
 
 ## JAVA
 > ## 什么是序列化
