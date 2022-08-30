@@ -11,7 +11,11 @@
 
 ## 数据库工具
 > + [Navicat](http://www.navicat.com.cn/download/navicat-for-mysql)
-> 
+
+## 中间件RabbitMQ详解
+> ## 1.初始RabbitMQ
+> + [rabbitmq详解](https://blog.csdn.net/qq_48721706/article/details/125194646)
+
 ## JAVA
 > ## 什么是序列化
 > 序列化： 将 java对象信息 转换成 二进制数据流的过程
