@@ -14,7 +14,8 @@
 
 ## 中间件RabbitMQ详解
 > ## 1.初始RabbitMQ
-> + [rabbitmq详解](https://blog.csdn.net/qq_48721706/article/details/125194646)
+> + [RabbitMQ官网下载](https://rabbitmq.com/download.html)
+> + [RabbitMQ详解](https://blog.csdn.net/qq_48721706/article/details/125194646)
 
 ## JAVA
 > ## 什么是序列化
