@@ -157,7 +157,7 @@
 
 ## Spring-Cloud-ALibaba(Nacos服务注册发现)
 > ## 什么是Nacos
-> + Nacos致力于帮助您发现、配置和管理微服务
+> + Nacos的就是一个注册中心,用来发现、配置和管理微服务。
 > ## 1.Nacos文档、下载
 > + [Nacos中文官网](https://nacos.io/zh-cn/)
 > + [Nacos1.4.3下载](https://github.com/alibaba/nacos/releases/tag/1.4.3)
