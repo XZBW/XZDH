@@ -13,6 +13,10 @@
 > + [Navicat](http://www.navicat.com.cn/download/navicat-for-mysql)
 
 ## 中间件RabbitMQ详解
+> ## 使用消息队列MQ的优点？
+> + 1.应用解耦：发送一个消息到MQ，其他系统监听MQ，只要消息还在MQ，某些服务挂了后面恢复正常依旧可以消费这个消息。（若不使用MQ则一个服务挂了就无法继续。）
+> + 2.流量消峰：有了MQ可以将大量的请求放到消息队列中，服务端每次处理先从MQ中获取，并分散很长一段时间处理。（若不使用MQ很可能被大量的请求打垮。）
+> + 3.异步处理：服务只需要发送一条消息到MQ，其他服务获取MQ，就可以返回用户成功了。（若不使用MQ服务接收一个请求，还需要在A,B,C多个服务同步进行写库操作，导致返回响应太久。）
 > ## 1.初始RabbitMQ
 > + [RabbitMQ官网下载](https://rabbitmq.com/download.html)
 > + [RabbitMQ详解](https://blog.csdn.net/qq_48721706/article/details/125194646)
