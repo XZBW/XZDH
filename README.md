@@ -29,6 +29,11 @@
 > ## 2.RabbitMQ部署与用户
 > + [Windows环境下RabbitMQ的启动和停止命令](https://blog.csdn.net/m0_67402341/article/details/123827559)
 > + [RabbitWeb页面创建用户](https://blog.csdn.net/qq_39355504/article/details/109166249)
+> ## 3.RabbitMQ持久化、发布确认、权重方式（不公平分发、预取值）
+> + [RabbitMQ队列持久化、消息持久化、不公平分发、预取值](https://www.cnblogs.com/hzxll/p/16297739.html)
+> + [RabbitMQ发布确认](https://blog.csdn.net/dingd1234/article/details/124935443)
+> ## Rabbit面试题
+> + [RabbitMQ面试题整理（含答案解析）](https://blog.csdn.net/m0_68102173/article/details/124299647)
 ## JAVA
 > ## 什么是序列化
 > 序列化： 将 java对象信息 转换成 二进制数据流的过程
