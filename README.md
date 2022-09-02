@@ -26,8 +26,9 @@
 > ## 1.初始RabbitMQ
 > + [RabbitMQ官网下载](https://rabbitmq.com/download.html)
 > + [RabbitMQ详解](https://blog.csdn.net/qq_48721706/article/details/125194646)
+> ## 2.RabbitMQ部署与用户
 > + [Windows环境下RabbitMQ的启动和停止命令](https://blog.csdn.net/m0_67402341/article/details/123827559)
-
+> + [RabbitWeb页面创建用户](https://blog.csdn.net/qq_39355504/article/details/109166249)
 ## JAVA
 > ## 什么是序列化
 > 序列化： 将 java对象信息 转换成 二进制数据流的过程
