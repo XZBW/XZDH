@@ -31,7 +31,7 @@
 > + [RabbitWeb页面创建用户](https://blog.csdn.net/qq_39355504/article/details/109166249)
 > ## 3.RabbitMQ持久化、发布确认、权重方式（不公平分发、预取值）
 > + [RabbitMQ队列持久化、消息持久化、不公平分发、预取值](https://www.cnblogs.com/hzxll/p/16297739.html)
-> + [RabbitMQ发布确认（单个、批量、异步）](https://blog.csdn.net/dingd1234/article/details/124935443)
+> + [RabbitMQ发布确认（单个、批量、异步批量）](https://blog.csdn.net/dingd1234/article/details/124935443)
 > + 1.单独发布消息：同步等待确认，简单，但吞吐量非常有限
 > + 2.批量发布消息：批量同步等待确认，简单，合理的吞吐量，一旦出现问题但很难推断出是哪条消息出现了问题。
 > + 3.异步处理：最佳性能和资源利用，在出现错误的情况下可以很好地控制，但是实现起来稍微复杂一些。
