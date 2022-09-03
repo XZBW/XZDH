@@ -34,7 +34,7 @@
 > ## 1.初始RabbitMQ
 > + [RabbitMQ官网下载](https://rabbitmq.com/download.html)
 > + [RabbitMQ详解](https://blog.csdn.net/qq_48721706/article/details/125194646)
-> + [RabbitMQ核心6大工作模式（简单模式、工作模式、发布订阅、路由、主题、发布确认）](https://www.cnblogs.com/frankcui/p/14969913.html)
+> + [RabbitMQ原理和架构图解（附6大工作原理）](https://mikechen.cc/18353.html)
 > ## 2.RabbitMQ部署与用户
 > + [Windows环境下RabbitMQ的启动和停止命令](https://blog.csdn.net/m0_67402341/article/details/123827559)
 > + [RabbitWeb页面创建用户](https://blog.csdn.net/qq_39355504/article/details/109166249)
