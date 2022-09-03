@@ -47,6 +47,7 @@
 > ## 4.RabbitMQ交换机（直连、扇形、主题、首部）
 > + [RabbitMQ交换机类型介绍](https://wenku.baidu.com/view/7e936b01a6e9856a561252d380eb6294dd882283.html)
 > ## 5.RabbitMQ死信队列和延时队列
+> + ## 死信队列三大来源（1.消息TTL过期、2.消息队列达到最大长度（队列满了，无法添加数据到MQ）、3.消息被拒绝并且被消费掉不放回到队列中）
 > + [RabbitMQ死信队列和延迟队列](https://blog.csdn.net/endless_fighting/article/details/116424018)
 > ## Rabbit面试题
 > + [RabbitMQ面试题整理（含答案解析）](https://blog.csdn.net/m0_68102173/article/details/124299647)
