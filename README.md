@@ -22,10 +22,19 @@
 > + 手动应答-手动不确认（basicNack方法）：可以nack该消费者先前接收未ack的所有消息。nack后的消息也会被自己消费到。
 > + 手动应答-手动拒绝（basicReject方法）：该方法reject后，该消费者还是会消费到该条被reject的消息。
 > + 手动应答-手动确认应答（手动确认应答basicAck方法）：需要在消息处理成功后，再确认消息，这就需要手动确认。
+> ## RabbitMQ核心6大工作模式（简单模式、工作模式、发布订阅、路由、主题、发布确认）
+> + 简单模式
+> + 工作模式
+> + 发布订阅
+> + 路由
+> + 主题
+> + 发布确认
+
 
 > ## 1.初始RabbitMQ
 > + [RabbitMQ官网下载](https://rabbitmq.com/download.html)
 > + [RabbitMQ详解](https://blog.csdn.net/qq_48721706/article/details/125194646)
+> + [RabbitMQ核心6大工作模式（简单模式、工作模式、发布订阅、路由、主题、发布确认）](https://www.cnblogs.com/frankcui/p/14969913.html)
 > ## 2.RabbitMQ部署与用户
 > + [Windows环境下RabbitMQ的启动和停止命令](https://blog.csdn.net/m0_67402341/article/details/123827559)
 > + [RabbitWeb页面创建用户](https://blog.csdn.net/qq_39355504/article/details/109166249)
