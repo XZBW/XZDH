@@ -56,6 +56,8 @@
 > ## 6.RabbitMQ发布确认高级
 > + 消息回退（Mandatory 参数）与备份交换机可以一起使用的时候，备份交换机优先级更高。
 > + [RabbitMQ发布确认高级](https://note.oddfar.com/pages/c94906/)
+> ## 7.RabbitMQ 幂等性、优先级、惰性
+> + [RabbitMQ 幂等性、优先级、惰性](https://note.oddfar.com/pages/ee71b9/#%E5%B9%82%E7%AD%89%E6%80%A7)
 > ## Rabbit面试题
 > + [RabbitMQ面试题整理（含答案解析）](https://blog.csdn.net/m0_68102173/article/details/124299647)
 
