@@ -51,6 +51,8 @@
 > + 延迟队列使用场景（1.订单在十分钟内未支付则自动取消、2.预定会议，提前提醒会议人员参加会议、3.用户多日没登录则发消息提醒）
 > + [RabbitMQ死信队列和延迟队列](https://blog.csdn.net/endless_fighting/article/details/116424018)
 > + [springboot版本不兼容swagger版本报错解决Failed to start bean ‘documentationPluginsBootstrapper’](https://blog.csdn.net/FFFPAG/article/details/121700133)
+> + [延迟队列插件下载github](https://github.com/rabbitmq/rabbitmq-delayed-message-exchange/tags)
+> + [windows下RabbitMQ延迟队列插件安装步骤](https://blog.csdn.net/kuangpengfei/article/details/124177128)
 > ## Rabbit面试题
 > + [RabbitMQ面试题整理（含答案解析）](https://blog.csdn.net/m0_68102173/article/details/124299647)
 ## JAVA
