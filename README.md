@@ -55,12 +55,12 @@
 > + [windows下RabbitMQ延迟队列插件安装步骤](https://blog.csdn.net/kuangpengfei/article/details/124177128)
 > ## Rabbit面试题
 > + [RabbitMQ面试题整理（含答案解析）](https://blog.csdn.net/m0_68102173/article/details/124299647)
+
 ## JAVA
-> ## 什么是序列化
-> 序列化： 将 java对象信息 转换成 二进制数据流的过程
->
-> 反序列化： 将 二进制数据流 转换成 java对象信息的过程
->
+> + ## 什么是序列化
+> + 序列化： 将 java对象信息 转换成 二进制数据流的过程
+> + 反序列化： 将 二进制数据流 转换成 java对象信息的过程
+> + [分布式架构知识体系](https://blog.csdn.net/IT1124/article/details/122384828)
 > ## Jrestcontroller和controller区别是什么?
 > + 1.用Controller配合视图解析器才能返回到指定页面。在对应的方法上加上ResponseBody注解才能返回JSON，XML或自定义mediaType的内容到页面。
 > + 2.不可以只用RestController注解Controller，因为这样会让Controller中的内容不能返回jsp页面，而且会直接返回Return里的内容。
