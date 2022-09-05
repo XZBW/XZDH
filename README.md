@@ -10,7 +10,19 @@
 - [Processon免费在线流程图思维导图](https://processon.com/)
 
 ## 加油打工人！！！
-> + [RabbitMQ面试题整理（含答案解析）](https://blog.csdn.net/m0_68102173/article/details/124299647)
+> + [微服务面试题总结](https://blog.csdn.net/m0_58479954/article/details/124984049)
+> + [SpringCloud面试题](https://blog.csdn.net/a6636656/article/details/124429257)
+> + [SpringBoot面试题](https://blog.csdn.net/qq_22075913/article/details/125826581)
+> + [Spring面试题](https://blog.csdn.net/zqy_zq_zxl/article/details/125735360)
+> + [AOP spring面试题](https://www.csdn.net/tags/Mtjakg4sODE0MjAtYmxvZwO0O0OO0O0O.html)
+> + [IOC spring面试题](https://blog.csdn.net/qq_35757264/article/details/124217533)
+> + [Redis面试题](https://blog.csdn.net/weixin_40205234/article/details/124614720)
+> + [ZooKeeper面试题](https://blog.csdn.net/m0_58479954/article/details/124982935)
+> + [Docker面试题](https://blog.csdn.net/qq_46654855/article/details/125742589)
+> + [Linux面试题](https://blog.csdn.net/q66562636/article/details/124435549)
+> + [RabbitMQ面试题](https://blog.csdn.net/m0_68102173/article/details/124299647)
+> + [Mysql面试题](https://blog.csdn.net/m0_58479954/article/details/124741331)
+> + [Mybatis面试题](https://blog.csdn.net/m0_58479954/article/details/124852560)
 
 
 ## 数据库工具
