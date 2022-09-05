@@ -57,6 +57,9 @@
 > + 消息回退（Mandatory 参数）与备份交换机可以一起使用的时候，备份交换机优先级更高。
 > + [RabbitMQ发布确认高级](https://note.oddfar.com/pages/c94906/)
 > ## 7.RabbitMQ 幂等性、优先级、惰性
+> + Rabbit消息被重复消费解决方法：设置一个全局唯一的id，利用Redis执行setnx命令，天然具有幂等性,从而实现不重复消费,若存在redis会返回0，则重复。反之不存在redis返回1，不重复。
+> + 优先级队列：队列内消息的优先级处理。
+> + 惰性队列：它的一个重要的设计目标是能够支持更长的队列，即支持更多的消息存储。
 > + [RabbitMQ 幂等性、优先级、惰性](https://note.oddfar.com/pages/ee71b9/#%E5%B9%82%E7%AD%89%E6%80%A7)
 > ## Rabbit面试题
 > + [RabbitMQ面试题整理（含答案解析）](https://blog.csdn.net/m0_68102173/article/details/124299647)
