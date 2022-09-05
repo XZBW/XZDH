@@ -60,7 +60,11 @@
 > + 优先级队列：队列内消息的优先级处理。队列需要设置优先级队列，消息需要设置优先级消息，才可以对消息进行排序。
 > + 惰性队列：它的一个重要的设计目标是能够支持更长的队列，即支持更多的消息存储，消息是储存在磁盘上。
 > + [RabbitMQ 幂等性、优先级、惰性](https://note.oddfar.com/pages/ee71b9/#%E5%B9%82%E7%AD%89%E6%80%A7)
-> ## 8.Rabbit面试题
+> ## 8.RabbitMQ集群搭建与镜像队列
+> + [Linux+虚拟机搭建RabbitMQ集群](https://blog.csdn.net/yanglaoda123456/article/details/46380631)
+> + [Docker搭建RabbitMQ集群(多台服务器)](https://blog.csdn.net/Bejpse/article/details/123836743)
+> + [RabbitMQ集群实现镜像队列(高可用)](https://blog.csdn.net/xiangjunyes/article/details/121929924?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7EOPENSEARCH%7ERate-1-121929924-blog-46380631.pc_relevant_multi_platform_whitelistv4&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7EOPENSEARCH%7ERate-1-121929924-blog-46380631.pc_relevant_multi_platform_whitelistv4&utm_relevant_index=1)
+> ## 9.RabbitMQ面试题
 > + [RabbitMQ面试题整理（含答案解析）](https://blog.csdn.net/m0_68102173/article/details/124299647)
 
 ## JAVA
