@@ -30,7 +30,6 @@
 > + 主题
 > + 发布确认
 
-
 > ## 1.初始RabbitMQ
 > + [RabbitMQ官网下载](https://rabbitmq.com/download.html)
 > + [RabbitMQ详解](https://blog.csdn.net/qq_48721706/article/details/125194646)
@@ -59,9 +58,9 @@
 > ## 7.RabbitMQ 幂等性、优先级、惰性
 > + Rabbit消息被重复消费解决方法：设置一个全局唯一的id，利用Redis执行setnx命令，天然具有幂等性,从而实现不重复消费,若存在redis会返回0，则重复。反之不存在redis返回1，不重复。
 > + 优先级队列：队列内消息的优先级处理。队列需要设置优先级队列，消息需要设置优先级消息，才可以对消息进行排序。
-> + 惰性队列：它的一个重要的设计目标是能够支持更长的队列，即支持更多的消息存储。
+> + 惰性队列：它的一个重要的设计目标是能够支持更长的队列，即支持更多的消息存储，消息是储存在磁盘上。
 > + [RabbitMQ 幂等性、优先级、惰性](https://note.oddfar.com/pages/ee71b9/#%E5%B9%82%E7%AD%89%E6%80%A7)
-> ## Rabbit面试题
+> ## 8.Rabbit面试题
 > + [RabbitMQ面试题整理（含答案解析）](https://blog.csdn.net/m0_68102173/article/details/124299647)
 
 ## JAVA
