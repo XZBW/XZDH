@@ -94,7 +94,7 @@
 > + [JAVA对数据按照日期排序，同一天为一组](https://blog.csdn.net/dadada_youzi/article/details/109092639)
 
 ## Mysql
-> ## union默认是并集去重,union是并集不去重
+> ## union默认是并集去重,union all是并集不去重
 > ## 索引是一种排好序快速查找数据结构
 > ## 1.mysql相关内容
 > + [Mysql官网](https://www.mysql.com/)
