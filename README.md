@@ -106,6 +106,7 @@
 > + [MySQL-Explain详解](https://blog.csdn.net/fsdfkjai/article/details/121770629)
 > + [Mysql高级篇-调优（视频教学）](https://www.bilibili.com/video/BV1KW411u7vy?p=14&vd_source=4f10ac1b3ab764a60d843b3bf8c01963)
 > + [Mysql慢查询日志](https://blog.csdn.net/chengqiuming/article/details/120402562)
+> + [MySQL 高级sql调优之 Show Profile](https://blog.csdn.net/lovelichao12/article/details/124087933)
 > ## 3.mysql常见问题解决方案
 > + [连接Mysql出现时区对不上(The server time zone value '?й???????')报错](https://blog.csdn.net/mk1843109092/article/details/102652767)
 > + [MySQL错误ERROR 1046 (3D000): No database selected解决方案](https://blog.csdn.net/qq_43128354/article/details/120081214)
