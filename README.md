@@ -99,6 +99,7 @@
 > ## 索引是一种排好序快速查找数据结构
 > + ## Mysql索引口诀
 > + 带头大哥不能死，中间兄弟不能断，索引列上不计算（!=或<>等等），like%加右边，范围（or）之后全失效，varchar引号不能丢
+> + 索引失效会导致行锁变表锁。
 > ## 1.mysql相关内容
 > + [Mysql官网](https://www.mysql.com/)
 > + [linux环境中执行Mysql脚本](https://www.cnblogs.com/bulesea/p/16490020.html)
