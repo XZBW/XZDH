@@ -10,6 +10,9 @@
 - [Processon免费在线流程图思维导图](https://processon.com/)
 
 ## 加油打工人！！！
+> + [高并发面试题](https://blog.csdn.net/qianzhitu/article/details/108488876)
+> + [分布式面试题](https://blog.csdn.net/libaowen609/article/details/125131974)
+> + [多线程面试题](https://blog.csdn.net/Firstlucky77/article/details/125173318)
 > + [微服务面试题总结](https://blog.csdn.net/m0_58479954/article/details/124984049)
 > + [SpringCloud面试题](https://blog.csdn.net/a6636656/article/details/124429257)
 > + [SpringBoot面试题](https://blog.csdn.net/qq_22075913/article/details/125826581)
