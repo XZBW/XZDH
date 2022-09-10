@@ -31,6 +31,16 @@
 ## 数据库工具
 > + [Navicat](http://www.navicat.com.cn/download/navicat-for-mysql)
 
+## Nginx负载均衡
+> ## 1.Nginx官网、下载、安装
+> + [Nginx官网下载](https://nginx.org/en/download.html)
+> + [Nginx安装（win/linux）](https://blog.csdn.net/qq_41755845/article/details/124368785)
+> ## 2.Nginx常用命令
+> + [nginx常用命令大全](https://www.cnblogs.com/Simoon/p/16452249.html)
+> + [Nginx常用命令解读](https://blog.csdn.net/weixin_47194244/article/details/123498003)
+> ## 3.Nginx
+
+
 ## 中间件RabbitMQ详解
 > ## 使用消息队列MQ的优点？
 > + 1.应用解耦：发送一个消息到MQ，其他系统监听MQ，只要消息还在MQ，某些服务挂了后面恢复正常依旧可以消费这个消息。（若不使用MQ则一个服务挂了就无法继续。）
