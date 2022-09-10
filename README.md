@@ -137,6 +137,7 @@
 > + [Linux-centos设置静态IP](https://blog.csdn.net/weixin_55821558/article/details/123819702)
 > + [Linux-centos设置静态IP（视频教学）](https://www.bilibili.com/video/BV1WY4y1H7d3?p=21&vd_source=4f10ac1b3ab764a60d843b3bf8c01963)
 > ## 4.Linux常用命令
+> + netstat -tunlp 查端口号进程可以加上 netstat -tunlp | grep 要查的端口号
 > + [Linux目录解析之/usr与/opt与/dev](https://blog.csdn.net/w2009211777/article/details/123853355)
 > + [Linux中常用命令](https://blog.csdn.net/qq_40649503/article/details/123677656)
 > + [Linux-vim快捷键](https://blog.csdn.net/sinat_36670490/article/details/118500419)
