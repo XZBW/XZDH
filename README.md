@@ -38,8 +38,8 @@
 > ## 2.Nginx常用命令
 > + [nginx常用命令大全](https://www.cnblogs.com/Simoon/p/16452249.html)
 > + [Nginx常用命令解读](https://blog.csdn.net/weixin_47194244/article/details/123498003)
-> ## 3.Nginx
-
+> ## 3.Nginx配置文件、反向代理、负载均衡、动静分离
+> + [Nginx配置文件详解](https://blog.csdn.net/qq_45794943/article/details/122722834)
 
 ## 中间件RabbitMQ详解
 > ## 使用消息队列MQ的优点？
