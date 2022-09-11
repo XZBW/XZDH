@@ -25,7 +25,7 @@
 > + [Linux面试题](https://blog.csdn.net/q66562636/article/details/124435549)
 > + [RabbitMQ面试题](https://blog.csdn.net/m0_68102173/article/details/124299647)
 > + [Mysql面试题](https://blog.csdn.net/m0_58479954/article/details/124741331)
-> + [Mybatis面试题](https://blog.csdn.net/m0_58479954/article/details/124852560)
+> + [Mybatis面试题](https://blog.csdn.net/m0_58479954/article/details/124852560) 
 
 
 ## 数据库工具
@@ -42,7 +42,7 @@
 > + [Nginx配置文件详解](https://blog.csdn.net/qq_45794943/article/details/122722834)
 
 ## 中间件RabbitMQ详解
-> ## 使用消息队列MQ的优点？
+> ## 使用消息队列MQ的优点？ 
 > + 1.应用解耦：发送一个消息到MQ，其他系统监听MQ，只要消息还在MQ，某些服务挂了后面恢复正常依旧可以消费这个消息。（若不使用MQ则一个服务挂了就无法继续。）
 > + 2.流量消峰：有了MQ可以将大量的请求放到消息队列中，服务端每次处理先从MQ中获取，并分散很长一段时间处理。（若不使用MQ很可能被大量的请求打垮。）
 > + 3.异步处理：服务只需要发送一条消息到MQ，其他服务获取MQ，就可以返回用户成功了。（若不使用MQ服务接收一个请求，还需要在A,B,C多个服务同步进行写库操作，导致返回响应太久。）
@@ -294,4 +294,4 @@
 > + [Seata1.5版本搭建Could not create connection to database server解决方法](https://blog.csdn.net/NO1_UNDERDOG/article/details/110675147)
 > + [Seata0.9.0版本搭建Could not create connection to database server解决方法](https://blog.csdn.net/stephen_curry300/article/details/121585707)
           
- 
+  
