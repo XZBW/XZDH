@@ -44,6 +44,10 @@
 > + [Nginx负载均衡的三种方式(轮询、权重、ip哈希（ip——hash）、fair(根据后端服务器响应时间分配，快的优先))](https://www.cnblogs.com/51core/articles/14303460.html)
 > + [nginx的三种反向代理方式(IP代理、端口代理、域名代理)](https://m.php.cn/nginx/463019.html)
 > + [nginx的优点，负载均衡以及动静分离等知识点](https://blog.csdn.net/weixin_45154837/article/details/100672566)
+> + [Nginx入门：反向代理、负载均衡、动静分离](https://blog.csdn.net/qq_33491651/article/details/124123952)
+> + [Nginx+keepalived 高可用双机热备（主从模式/双主模式）](https://blog.csdn.net/qq_25430563/article/details/108835063)
+
+
 ## 中间件RabbitMQ详解
 > ## 使用消息队列MQ的优点？ 
 > + 1.应用解耦：发送一个消息到MQ，其他系统监听MQ，只要消息还在MQ，某些服务挂了后面恢复正常依旧可以消费这个消息。（若不使用MQ则一个服务挂了就无法继续。）
