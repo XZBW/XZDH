@@ -106,6 +106,11 @@
 > + ## 什么是序列化
 > + 序列化： 将 java对象信息 转换成 二进制数据流的过程
 > + 反序列化： 将 二进制数据流 转换成 java对象信息的过程
+> + ## 深拷贝和浅拷贝的区别是什么？
+> + 浅拷贝：对于基本数据类型：直接复制数据值；对于引用数据类型：只是复制了对象的引用地址，新旧对象指向同一个内存地址，修改其中一个对象的值，另一个对象的值也随之改变。
+> + 深拷贝：对于基本数据类型：直接复制数据值；对于引用数据类型：开辟新的内存空间，在新的内存空间里复制一个一模一样的对象，新老对象不共享内存，修改其中一个对象的值，不会影响另一个对象。
+> + 深拷贝相比于浅拷贝速度较慢并且花销较大。
+> 
 > + [分布式架构知识体系](https://blog.csdn.net/IT1124/article/details/122384828)
 > + [JAVA高效率 (秒级) 将千万条数据导入数据库 ](https://blog.csdn.net/m0_55710969/article/details/121117481)
 > ## Jrestcontroller和controller区别是什么?
@@ -123,6 +128,7 @@
 > ## 1.mysql相关内容
 > + [Mysql官网](https://www.mysql.com/)
 > + [linux环境中执行Mysql脚本](https://www.cnblogs.com/bulesea/p/16490020.html)
+> + [关于sql和MySQL的语句执行顺序(1.from、2.on、3.join、4.where、5.group by、6.avg,sum...、7.having、8.select、9.distinct、10.order by、11.limit)](https://blog.csdn.net/u014044812/article/details/51004754/)
 > ## 2.Mysql调优
 > + [MySQL-Explain详解](https://blog.csdn.net/fsdfkjai/article/details/121770629)
 > + [Mysql高级篇-调优（视频教学）](https://www.bilibili.com/video/BV1KW411u7vy?p=14&vd_source=4f10ac1b3ab764a60d843b3bf8c01963)
