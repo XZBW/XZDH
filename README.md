@@ -103,6 +103,21 @@
 > + [RabbitMQ联邦交换机/队列 + Shovel](https://blog.csdn.net/IT_Holmes/article/details/124996212)
 
 ## JAVA
+> ## JDK8新特性[详情链接](https://blog.csdn.net/LXYDSF/article/details/125919046)
+> + 增加了新的语法：Lambda 表达式、函数式接口、方法引用与构造器引用等...[jdk8 新特性汇总](https://blog.csdn.net/zykwblx/article/details/125959421)
+
+> ## HashMap
+> + ## HashMap之1.7和1.8的区别[相关链接](https://blog.csdn.net/weixin_44842613/article/details/116529880)
+> + 1.底层数据结构不一样，1.7是数组+链表，1.8则是数组+链表+红黑树结构（当链表长度大于8，转为红黑树）。
+> + 2.1.7中新增节点采用头插法，1.8中新增节点采用尾插法。这也是为什么1.8不容易出现环型链表的原因。
+> + 3.在扩容的时候：1.7在插入数据之前扩容，而1.8插入数据成功之后扩容。
+> + ## HashMap红黑树
+> + 
+> + ## 相关链接
+> + [HashMap之1.7和1.8的区别(详解)](https://blog.csdn.net/m0_62286364/article/details/126130219)
+> + [初步了解红黑树](https://blog.csdn.net/v_july_v/article/details/6105630)
+> + [深入源码解析HashMap 1.8](https://blog.csdn.net/carson_ho/article/details/79373134)
+
 > ## 什么是序列化
 > + 序列化： 将 java对象信息 转换成 二进制数据流的过程
 > + 反序列化： 将 二进制数据流 转换成 java对象信息的过程
@@ -143,6 +158,10 @@
 > + [分布式架构知识体系](https://blog.csdn.net/IT1124/article/details/122384828)
 > + [JAVA高效率 (秒级) 将千万条数据导入数据库 ](https://blog.csdn.net/m0_55710969/article/details/121117481)
 
+## Mybatis
+> + ## MyBatis缓存[相关链接](https://blog.csdn.net/weixin_47404925/article/details/123113600)
+> + 一级缓存：同一个 SqlSession 对象， 在参数和 SQL 完全一样的情况下， 只执行一次 SQL 语句 （前提缓存没有过期）
+> + 二级缓存：Mybatis的二级缓存是指mapper映射文件。二级缓存的作用域是同一个namespace下 的mapper映射文件内容，多个SqlSession共享。
 
 ## Mysql
 > ## union默认是并集去重,union all是并集不去重
