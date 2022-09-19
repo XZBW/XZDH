@@ -124,6 +124,16 @@
 > + Post是把提交的数据放在HTTP正文中的, POST 的参数存储在实体主体中
 > + Post的安全性要比Get高，而且POST数据则可以加密的，但GET的速度可能会快些。
 > + POST请求是不安全且不幂等的，因为是新增或者提交数据的操作，会修改服务器上的资源，且多次提交数据就会创建多个资源。
+> + ## HTTP协议中，除了GET和POST还有什么请求？[相关链接](https://blog.csdn.net/weixin_42220532/article/details/104411061)
+> + OPTIONS:向Web服务器发送OPTIONS请求，可以测试服务器功能是否正常运作
+> + HEAD:与GET方法一样，都是向服务器发出指定资源的请求。它的好处在于，使用这个方法可以在不必传输全部内容的情况下，就可以获取其中“关于该资源的信息”（元信息或称元数据）。
+> + GET:向指定的资源发出“显示”请求。使用GET方法应该只用在读取数据。
+> + POST:向指定资源提交数据，请求服务器进行处理（例如提交表单或者上传文件）。
+> + PUT:向指定资源位置上传其最新内容。
+> + DELETE:请求服务器删除Request-URI所标识的资源
+> + TRACE:回显服务器收到的请求，主要用于测试或诊断
+> + CONNECT:HTTP/1.1协议中预留给能够将连接改为管道方式的代理服务器。通常用于SSL加密服务器的链接
+
 > ## Jrestcontroller和controller区别是什么?
 > + 1.用Controller配合视图解析器才能返回到指定页面。在对应的方法上加上ResponseBody注解才能返回JSON，XML或自定义mediaType的内容到页面。
 > + 2.不可以只用RestController注解Controller，因为这样会让Controller中的内容不能返回jsp页面，而且会直接返回Return里的内容。
