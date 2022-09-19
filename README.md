@@ -103,14 +103,16 @@
 > + [RabbitMQ联邦交换机/队列 + Shovel](https://blog.csdn.net/IT_Holmes/article/details/124996212)
 
 ## JAVA
-> + ## 什么是序列化
+> ## 什么是序列化
 > + 序列化： 将 java对象信息 转换成 二进制数据流的过程
 > + 反序列化： 将 二进制数据流 转换成 java对象信息的过程
-> + ## 深拷贝和浅拷贝的区别是什么？
+> ## 深拷贝和浅拷贝的区别是什么？
 > + 浅拷贝：对于基本数据类型：直接复制数据值；对于引用数据类型：只是复制了对象的引用地址，新旧对象指向同一个内存地址，修改其中一个对象的值，另一个对象的值也随之改变。
 > + 深拷贝：对于基本数据类型：直接复制数据值；对于引用数据类型：开辟新的内存空间，在新的内存空间里复制一个一模一样的对象，新老对象不共享内存，修改其中一个对象的值，不会影响另一个对象。
 > + 深拷贝相比于浅拷贝速度较慢并且花销较大。
-> 
+> ## Spring事务失效
+> + [spring事务失效的12种场景](https://blog.csdn.net/Pastxu/article/details/124531638?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-1-124531638-blog-120098743.pc_relevant_multi_platform_whitelistv4&spm=1001.2101.3001.4242.2&utm_relevant_index=4)
+> + [Spring事务失效常见场景](https://blog.csdn.net/qq_16268979/article/details/123707823?spm=1001.2101.3001.6650.2&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-2-123707823-blog-124531638.topnsimilarv1&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-2-123707823-blog-124531638.topnsimilarv1&utm_relevant_index=5)
 > + [分布式架构知识体系](https://blog.csdn.net/IT1124/article/details/122384828)
 > + [JAVA高效率 (秒级) 将千万条数据导入数据库 ](https://blog.csdn.net/m0_55710969/article/details/121117481)
 > ## Jrestcontroller和controller区别是什么?
@@ -125,6 +127,14 @@
 > + ## Mysql索引口诀
 > + 带头大哥不能死，中间兄弟不能断，索引列上不计算（!=或<>等等），like%加右边，范围（or）之后全失效，varchar引号不能丢
 > + 索引失效会导致行锁变表锁。
+> ## 索引种类
+> + 通索引、唯一索引、主键索引、组合索引、全文索引
+> ## 数据库建表原则
+> + 第一范式:确保每一列的原子性（做到每列不可拆分）
+> + 第二范式:在第一范式的基础上，非主字段必须依赖于主字段（一个表只做一件事）
+> + 第三范式:在第二范式的基础上，消除传递依赖(任何非主属性不依赖于其它非主属性)
+> + 反三范式:反三范式是基于第三范式所调整的，没有冗余的数据库未必是最好的数据库，有时为了提高运行效率，就必须降低范式标准，适当保留冗余数据。
+> 
 > ## 1.mysql相关内容
 > + [Mysql官网](https://www.mysql.com/)
 > + [linux环境中执行Mysql脚本](https://www.cnblogs.com/bulesea/p/16490020.html)
