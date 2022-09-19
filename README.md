@@ -113,13 +113,26 @@
 > ## Spring事务失效
 > + [spring事务失效的12种场景](https://blog.csdn.net/Pastxu/article/details/124531638?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-1-124531638-blog-120098743.pc_relevant_multi_platform_whitelistv4&spm=1001.2101.3001.4242.2&utm_relevant_index=4)
 > + [Spring事务失效常见场景](https://blog.csdn.net/qq_16268979/article/details/123707823?spm=1001.2101.3001.6650.2&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-2-123707823-blog-124531638.topnsimilarv1&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-2-123707823-blog-124531638.topnsimilarv1&utm_relevant_index=5)
-> + [分布式架构知识体系](https://blog.csdn.net/IT1124/article/details/122384828)
-> + [JAVA高效率 (秒级) 将千万条数据导入数据库 ](https://blog.csdn.net/m0_55710969/article/details/121117481)
+> ## POST和GET有哪些区别？各自应用场景？
+> + ## 场景：GET 用于获取资源，查询数据，而 POST 用于传输实体主体，修改数据。
+> + ## GET
+> + GET请求的数据是放在HTTP包头中的，也就是URL之后。GET 的参数是以查询字符串出现在 URL 中。
+> + GET提交的数据比较少，最多1024B，而POST可以传送更多的数据。
+> + 使用Get时，参数数据是明文传输的，而且使用GET的话，还可能造成Cross-site request forgery攻击，但GET的速度可能会快些。
+> + GET请求是安全且幂等的。
+> + ## POST
+> + Post是把提交的数据放在HTTP正文中的, POST 的参数存储在实体主体中
+> + Post的安全性要比Get高，而且POST数据则可以加密的，但GET的速度可能会快些。
+> + POST请求是不安全且不幂等的，因为是新增或者提交数据的操作，会修改服务器上的资源，且多次提交数据就会创建多个资源。
 > ## Jrestcontroller和controller区别是什么?
 > + 1.用Controller配合视图解析器才能返回到指定页面。在对应的方法上加上ResponseBody注解才能返回JSON，XML或自定义mediaType的内容到页面。
 > + 2.不可以只用RestController注解Controller，因为这样会让Controller中的内容不能返回jsp页面，而且会直接返回Return里的内容。
 > + 3.RestController相当于Controller和ResponseBod两者合并起来的作用。
 > + [JAVA对数据按照日期排序，同一天为一组](https://blog.csdn.net/dadada_youzi/article/details/109092639)
+> ## 知识点
+> + [分布式架构知识体系](https://blog.csdn.net/IT1124/article/details/122384828)
+> + [JAVA高效率 (秒级) 将千万条数据导入数据库 ](https://blog.csdn.net/m0_55710969/article/details/121117481)
+
 
 ## Mysql
 > ## union默认是并集去重,union all是并集不去重
