@@ -104,10 +104,10 @@
 
 ## JAVA
 > ## JDK8新特性（[相关链接](https://blog.csdn.net/LXYDSF/article/details/125919046)）
-> + 增加了新的语法：Lambda 表达式、函数式接口、方法引用与构造器引用等...([jdk8 新特性汇总](https://blog.csdn.net/zykwblx/article/details/125959421))
+> + 增加了新的语法：Lambda 表达式、函数式接口、方法引用与构造器引用等...（[jdk8 新特性汇总](https://blog.csdn.net/zykwblx/article/details/125959421)）
 
 > ## HashMap
-> + ## HashMap之1.7和1.8的区别([相关链接](https://blog.csdn.net/weixin_44842613/article/details/116529880))
+> + ## HashMap之1.7和1.8的区别（[相关链接](https://blog.csdn.net/weixin_44842613/article/details/116529880)）
 > + 1.底层数据结构不一样，1.7是数组+链表，1.8则是数组+链表+红黑树结构（当链表长度大于8，转为红黑树）。
 > + 2.1.7中新增节点采用头插法，1.8中新增节点采用尾插法。这也是为什么1.8不容易出现环型链表的原因。
 > + 3.在扩容的时候：1.7在插入数据之前扩容，而1.8插入数据成功之后扩容。
@@ -128,7 +128,7 @@
 > ## Spring事务失效
 > + [spring事务失效的12种场景](https://blog.csdn.net/Pastxu/article/details/124531638?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-1-124531638-blog-120098743.pc_relevant_multi_platform_whitelistv4&spm=1001.2101.3001.4242.2&utm_relevant_index=4)
 > + [Spring事务失效常见场景](https://blog.csdn.net/qq_16268979/article/details/123707823?spm=1001.2101.3001.6650.2&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-2-123707823-blog-124531638.topnsimilarv1&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-2-123707823-blog-124531638.topnsimilarv1&utm_relevant_index=5)
-> ## POST和GET有哪些区别？各自应用场景？([相关链接](https://blog.csdn.net/weixin_43595755/article/details/121877022)）
+> ## POST和GET有哪些区别？各自应用场景？（[相关链接](https://blog.csdn.net/weixin_43595755/article/details/121877022)）
 > + ## 场景：GET 用于获取资源，查询数据，而 POST 用于传输实体主体，修改数据。
 > + ## GET
 > + GET请求的数据是放在HTTP包头中的，也就是URL之后。GET 的参数是以查询字符串出现在 URL 中。
