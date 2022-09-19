@@ -113,7 +113,7 @@
 > ## Spring事务失效
 > + [spring事务失效的12种场景](https://blog.csdn.net/Pastxu/article/details/124531638?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-1-124531638-blog-120098743.pc_relevant_multi_platform_whitelistv4&spm=1001.2101.3001.4242.2&utm_relevant_index=4)
 > + [Spring事务失效常见场景](https://blog.csdn.net/qq_16268979/article/details/123707823?spm=1001.2101.3001.6650.2&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-2-123707823-blog-124531638.topnsimilarv1&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-2-123707823-blog-124531638.topnsimilarv1&utm_relevant_index=5)
-> ## POST和GET有哪些区别？各自应用场景？
+> ## POST和GET有哪些区别？各自应用场景？[相关链接](https://blog.csdn.net/weixin_43595755/article/details/121877022) 
 > + ## 场景：GET 用于获取资源，查询数据，而 POST 用于传输实体主体，修改数据。
 > + ## GET
 > + GET请求的数据是放在HTTP包头中的，也就是URL之后。GET 的参数是以查询字符串出现在 URL 中。
