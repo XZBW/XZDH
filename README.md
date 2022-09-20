@@ -118,6 +118,9 @@
 > + ## 单例模式（懒汉/饿汉区别）
 > + 饿汉式：类初始化时，会立即加载该对象，线程天生安全，调用效率高。
 > + 懒汉式：类初始化时，不会初始化该对象，真正需要使用的时候才会创建该对象，具备懒加载功能
+> ## JAVA集合
+> + ## JAVA集合一共有3种（List、set、Map）
+> + [常用的几种java集合类总结](https://blog.csdn.net/gejiangbo222/article/details/81540616) 
 > 
 > ## HashMap
 > + ## HashMap之1.7和1.8的区别（[相关链接](https://blog.csdn.net/weixin_44842613/article/details/116529880)）
@@ -167,6 +170,13 @@
 > + 2.不可以只用RestController注解Controller，因为这样会让Controller中的内容不能返回jsp页面，而且会直接返回Return里的内容。
 > + 3.RestController相当于Controller和ResponseBod两者合并起来的作用。
 > + [JAVA对数据按照日期排序，同一天为一组](https://blog.csdn.net/dadada_youzi/article/details/109092639)
+
+> ## JAVA常见的异常
+> + Runtime Exception、Exception、NullPointerException（空指针）、NegativeArrayException（数组下标）、IOException、SQLException（[Java常见异常种类](https://www.cnblogs.com/haoxiaonan/p/15639180.html)）
+
+> ## String字符串
+> + ## String常用方法（[相关链接](https://blog.csdn.net/m0_46400910/article/details/122361749)）
+> + length（长度）、isEmpty（是否为空）、trim（去空格）、equals（比较）、substring（字符串拼接）、replace（字符串替换）
 > ## 知识点
 > + [分布式架构知识体系](https://blog.csdn.net/IT1124/article/details/122384828)
 > + [JAVA高效率 (秒级) 将千万条数据导入数据库 ](https://blog.csdn.net/m0_55710969/article/details/121117481)
