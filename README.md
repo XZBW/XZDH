@@ -177,6 +177,13 @@
 > ## String字符串
 > + ## String常用方法（[相关链接](https://blog.csdn.net/m0_46400910/article/details/122361749)）
 > + length（长度）、isEmpty（是否为空）、trim（去空格）、equals（比较）、substring（字符串拼接）、replace（字符串替换）
+> + ##  eqsuls和==的区别与使用场景（[相关链接](https://blog.csdn.net/qq_33290787/article/details/51810529)）
+> + ==：基本数据类型比较的是值或地址，引用数据类型比较的是地址。
+> + equals：在不重写的情况下，和==没有任何区别，重写，可以自定义比较规则，一般重写之后都让其比较值。
+> + 使用场景：
+> + ==：若是两个基本数据类型的比较，例如int a = 1，b = 2；比较a是否等于b。使用==
+> + equals：若是比较两个字符串，直接用equals()方法。
+
 > ## 知识点
 > + [分布式架构知识体系](https://blog.csdn.net/IT1124/article/details/122384828)
 > + [JAVA高效率 (秒级) 将千万条数据导入数据库 ](https://blog.csdn.net/m0_55710969/article/details/121117481)
