@@ -121,7 +121,8 @@
 > ## JAVA集合
 > + ## JAVA集合一共有3种（List、set、Map）
 > + [常用的几种java集合类总结](https://blog.csdn.net/gejiangbo222/article/details/81540616) 
-> + ## List和Set的区别（List、Set都继承自Collection接口）（[相关链接](https://blog.csdn.net/w759826115/article/details/122736454)）
+> + [List、Set和Map的各自特征及使用场景](https://www.pianshen.com/article/6554339886/)
+> + ## List和Set的区别（List、Set都继承自Collection接口，Map则不是）（[相关链接](https://blog.csdn.net/w759826115/article/details/122736454)）
 > + ## List（LinkedList、ArrayList、Vector）
 > + List的特点：元素有放入顺序，且可重复。
 > + List支持for循环，也就是通过下标来遍历，也可以用迭代器。
