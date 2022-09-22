@@ -105,6 +105,7 @@
 ## JAVA
 > ## JDK8新特性（[相关链接](https://blog.csdn.net/LXYDSF/article/details/125919046)）
 > + 增加了新的语法：Lambda 表达式、函数式接口、方法引用与构造器引用等...（[jdk8 新特性汇总](https://blog.csdn.net/zykwblx/article/details/125959421)）
+
 > ## Java设计模式（单例、工厂、代理、建造者、模板方法、原型、策略）需补充！
 > + [Java中常用的设计模式（附代码实现和具体的应用场景）](https://blog.csdn.net/qq_45649807/article/details/124593629)
 > + 单例模式：保证一个类只有一个实例，并且提供一个访问该全局访问点
@@ -118,6 +119,21 @@
 > + ## 单例模式（懒汉/饿汉区别）
 > + 饿汉式：类初始化时，会立即加载该对象，线程天生安全，调用效率高。
 > + 懒汉式：类初始化时，不会初始化该对象，真正需要使用的时候才会创建该对象，具备懒加载功能
+
+## JAVA接口、抽象、重载、重写、继承、多态、面向对象、面向抽象
+
+> + ## 接口和抽象类的区别
+> + 抽象类可以存在普通成员函数，而接口只能存在pubic abstract 方法。
+> + 抽象类中的成员变量，可以时各种类型的，而接口中的成员变量只能是 public static final类型。
+> + 抽象类只能继承一个，而接口可以实现多个。
+
+> + ## 重载和重写的区别
+> + 重载：同一个类参数类型不同，个数不同，顺序不同，但是方法返回值可以不同，和访问修饰符可以不同。
+> + 重写：发生在父子类，方法名，参数表，必须相同，返回值范围小于等于父类。抛出的异常范围小于父类，访问修饰符范围大于等于父类，如果父类访问修饰符为private，那么就无法被被重写。
+
+> + ## 相关链接
+> + [接口和抽象类的区别，重载和重写的区别](https://blog.csdn.net/qq_55931917/article/details/123829613)
+
 > ## JAVA集合
 > + ## JAVA集合一共有3种（List、set、Map）
 > + [常用的几种java集合类总结](https://blog.csdn.net/gejiangbo222/article/details/81540616) 
@@ -151,10 +167,12 @@
 > ## 什么是序列化
 > + 序列化： 将 java对象信息 转换成 二进制数据流的过程
 > + 反序列化： 将 二进制数据流 转换成 java对象信息的过程
+
 > ## 深拷贝和浅拷贝的区别是什么？
 > + 浅拷贝：对于基本数据类型：直接复制数据值；对于引用数据类型：只是复制了对象的引用地址，新旧对象指向同一个内存地址，修改其中一个对象的值，另一个对象的值也随之改变。
 > + 深拷贝：对于基本数据类型：直接复制数据值；对于引用数据类型：开辟新的内存空间，在新的内存空间里复制一个一模一样的对象，新老对象不共享内存，修改其中一个对象的值，不会影响另一个对象。
 > + 深拷贝相比于浅拷贝速度较慢并且花销较大。
+
 > ## Spring事务失效
 > + [spring事务失效的12种场景](https://blog.csdn.net/Pastxu/article/details/124531638?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-1-124531638-blog-120098743.pc_relevant_multi_platform_whitelistv4&spm=1001.2101.3001.4242.2&utm_relevant_index=4)
 > + [Spring事务失效常见场景](https://blog.csdn.net/qq_16268979/article/details/123707823?spm=1001.2101.3001.6650.2&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-2-123707823-blog-124531638.topnsimilarv1&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-2-123707823-blog-124531638.topnsimilarv1&utm_relevant_index=5)
@@ -198,8 +216,7 @@
 > + 使用场景：
 > + ==：若是两个基本数据类型的比较，例如int a = 1，b = 2；比较a是否等于b。使用==
 > + equals：若是比较两个字符串，直接用equals()方法。
-
-> ## String、StringBuilder、StringBuff区别（[相关链接](https://blog.csdn.net/weixin_52237268/article/details/123051758)）
+> + ## String、StringBuilder、StringBuff区别（[相关链接](https://blog.csdn.net/weixin_52237268/article/details/123051758)）
 > + String：String类型的字符串具有不可变性，它所具有的方法无法修改原来的字符串，只能用新的字符串来接受修改结果
 > + StringBuff：StringBuff的方法有synchronized修饰，所以“线程”安全，但性能差。一般修改到字符串的时候使用StringBuff可以无需考虑线程安全的问题。
 > + StringBuilder：StringBuilder的方法没有synchronized修饰，所以具有“线程”不安全性，但性能好。
