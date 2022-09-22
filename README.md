@@ -121,7 +121,21 @@
 > ## JAVA集合
 > + ## JAVA集合一共有3种（List、set、Map）
 > + [常用的几种java集合类总结](https://blog.csdn.net/gejiangbo222/article/details/81540616) 
-> 
+
+
+> ## List和Set的区别（List、Set都继承自Collection接口）（[相关链接](https://blog.csdn.net/w759826115/article/details/122736454)）
+> + ## List（LinkedList、ArrayList、Vector）
+> + List的特点：元素有放入顺序，且可重复。
+> + List支持for循环，也就是通过下标来遍历，也可以用迭代器。
+> + List接口有三个实现类：LinkedList,ArrayList,Vector。
+> + List和数组类似，List可以动态增长，查找元素效率高，插入删除元素效率低，因为会引起其他元素位置改变。
+> + ## Set（HashSet、LinkedHashSet）
+> + Set的特点：元素无放入顺序，且不可重复
+> + Set只能用迭代器，因为他无序，无法使用下标取值
+> + Set接口有两个实现类：HashSet（底层由HashMap实现），LinkedHashSet
+> + Set：检索元素效率低，删除和插入效率高，插入和删除不会引起元素位置改变。
+
+
 > ## HashMap
 > + ## HashMap之1.7和1.8的区别（[相关链接](https://blog.csdn.net/weixin_44842613/article/details/116529880)）
 > + 1.底层数据结构不一样，1.7是数组+链表，1.8则是数组+链表+红黑树结构（当链表长度大于8，转为红黑树）。
