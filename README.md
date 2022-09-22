@@ -144,6 +144,7 @@
 > ## Spring事务失效
 > + [spring事务失效的12种场景](https://blog.csdn.net/Pastxu/article/details/124531638?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-1-124531638-blog-120098743.pc_relevant_multi_platform_whitelistv4&spm=1001.2101.3001.4242.2&utm_relevant_index=4)
 > + [Spring事务失效常见场景](https://blog.csdn.net/qq_16268979/article/details/123707823?spm=1001.2101.3001.6650.2&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-2-123707823-blog-124531638.topnsimilarv1&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-2-123707823-blog-124531638.topnsimilarv1&utm_relevant_index=5)
+
 > ## POST和GET有哪些区别？各自应用场景？（[相关链接](https://blog.csdn.net/weixin_43595755/article/details/121877022)）
 > + ## 场景：GET 用于获取资源，查询数据，而 POST 用于传输实体主体，修改数据。
 > + ## GET
@@ -184,6 +185,11 @@
 > + ==：若是两个基本数据类型的比较，例如int a = 1，b = 2；比较a是否等于b。使用==
 > + equals：若是比较两个字符串，直接用equals()方法。
 
+> ## String、StringBuilder、StringBuff区别（[相关链接](https://blog.csdn.net/weixin_52237268/article/details/123051758)）
+> + String：String类型的字符串具有不可变性，它所具有的方法无法修改原来的字符串，只能用新的字符串来接受修改结果
+> + StringBuff：StringBuff的方法有synchronized修饰，所以“线程”安全，但性能差。一般修改到字符串的时候使用StringBuff可以无需考虑线程安全的问题。
+> + StringBuilder：StringBuilder的方法没有synchronized修饰，所以具有“线程”不安全性，但性能好。
+
 > ## 知识点
 > + [分布式架构知识体系](https://blog.csdn.net/IT1124/article/details/122384828)
 > + [JAVA高效率 (秒级) 将千万条数据导入数据库 ](https://blog.csdn.net/m0_55710969/article/details/121117481)
@@ -195,18 +201,29 @@
 
 ## Mysql
 > ## union默认是并集去重,union all是并集不去重
+
 > ## 索引是一种排好序快速查找数据结构
 > + ## Mysql索引口诀
 > + 带头大哥不能死，中间兄弟不能断，索引列上不计算（!=或<>等等），like%加右边，范围（or）之后全失效，varchar引号不能丢
 > + 索引失效会导致行锁变表锁。
-> ## 索引种类
+> + ## 索引种类
 > + 通索引、唯一索引、主键索引、组合索引、全文索引
+
 > ## 数据库建表原则
 > + 第一范式:确保每一列的原子性（做到每列不可拆分）
 > + 第二范式:在第一范式的基础上，非主字段必须依赖于主字段（一个表只做一件事）
 > + 第三范式:在第二范式的基础上，消除传递依赖(任何非主属性不依赖于其它非主属性)
 > + 反三范式:反三范式是基于第三范式所调整的，没有冗余的数据库未必是最好的数据库，有时为了提高运行效率，就必须降低范式标准，适当保留冗余数据。
-> 
+
+> ## MySQL内连接、左连接、右连接是什么，他们的差别，以及性能比较（[相关链接](https://blog.csdn.net/weixin_44185561/article/details/102451307)）
+> + left join（左连接）:返回左表中的所有记录和右表中连接字段相等的记录。左表内容全查；右表查出没有与其对应的数据用null去填补。（以左表为参照显示数据；）
+> + right join（右连接）：返回右表中的所有记录和左表中连接字段相等的记录。右表内容全查；左表查出没有与其对应的数据用null去填补。（以右表为参照显示数据；）
+> + inner join（内连接）：只返回两个表中连接字段相等的行。只有两张表都匹配的行才会被显示。（显示两个表中有联系的所有数据；）
+> + full join（全外连接）：返回左右表中所有的记录和左右表中连接字段相等的记录。互相之间谁没有数据就拿null去填。
+> + union / union all（全连接）：显示两个表中所有数据，除被合并的列以外元素值相等只显示一行数据，值不等显示多行数据。
+> + ## 性能比较（[相关链接](https://blog.csdn.net/weixin_35640856/article/details/76515968)）
+> + 左连接>内连接：是因为left时，数据库在执行时，left左边的表是被优化执行的，因为left左边的表被无条件返回，left右边的表对结果集不存在影响。 但是inner的时候， 就需要对数据进行过滤。 所以速度会慢。
+
 > ## 1.mysql相关内容
 > + [Mysql官网](https://www.mysql.com/)
 > + [linux环境中执行Mysql脚本](https://www.cnblogs.com/bulesea/p/16490020.html)
