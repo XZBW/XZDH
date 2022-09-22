@@ -195,9 +195,12 @@
 > + [JAVA高效率 (秒级) 将千万条数据导入数据库 ](https://blog.csdn.net/m0_55710969/article/details/121117481)
 
 ## Mybatis
-> + ## MyBatis缓存（[相关链接](https://blog.csdn.net/weixin_47404925/article/details/123113600)）
+> ## MyBatis缓存（[相关链接](https://blog.csdn.net/weixin_47404925/article/details/123113600)）
 > + 一级缓存：同一个 SqlSession 对象， 在参数和 SQL 完全一样的情况下， 只执行一次 SQL 语句 （前提缓存没有过期）
 > + 二级缓存：Mybatis的二级缓存是指mapper映射文件。二级缓存的作用域是同一个namespace下 的mapper映射文件内容，多个SqlSession共享。
+
+> ## Mybatis基础使用
+> + [mybatis 批量更新update详解](https://blog.csdn.net/yjaspire/article/details/81316885) 
 
 ## Mysql
 > ## union默认是并集去重,union all是并集不去重
