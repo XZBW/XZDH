@@ -122,7 +122,7 @@
 > + ## JAVA集合一共有3种（List、set、Map）
 > + [常用的几种java集合类总结](https://blog.csdn.net/gejiangbo222/article/details/81540616) 
 > + [List、Set和Map的各自特征及使用场景](https://www.pianshen.com/article/6554339886/)
-> + ## List和Set的区别（List、Set都继承自Collection接口，Map则不是）（[相关链接](https://blog.csdn.net/w759826115/article/details/122736454)）
+> + ## List、Set和Map的区别（List、Set都继承自Collection接口，Map则不是）（[相关链接](https://blog.csdn.net/w759826115/article/details/122736454)）
 > + ## List（LinkedList、ArrayList、Vector）
 > + List的特点：元素有放入顺序，且可重复。
 > + List支持for循环，也就是通过下标来遍历，也可以用迭代器。
@@ -133,7 +133,8 @@
 > + Set只能用迭代器，因为他无序，无法使用下标取值
 > + Set接口有两个实现类：HashSet（底层由HashMap实现），LinkedHashSet
 > + Set：检索元素效率低，删除和插入效率高，插入和删除不会引起元素位置改变。
-
+> + ## Map（HashMap、LinkedHashMap、Hashtable、TreeMap）
+> + Map集合的数据结构仅仅针对键有效，与值无关。存储的是键值对形式的元素，键唯一，值可重复。
 
 > ## HashMap
 > + ## HashMap之1.7和1.8的区别（[相关链接](https://blog.csdn.net/weixin_44842613/article/details/116529880)）
