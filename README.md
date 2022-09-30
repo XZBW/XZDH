@@ -274,7 +274,7 @@
 > + [连接Mysql出现时区对不上(The server time zone value '?й???????')报错](https://blog.csdn.net/mk1843109092/article/details/102652767)
 > + [MySQL错误ERROR 1046 (3D000): No database selected解决方案](https://blog.csdn.net/qq_43128354/article/details/120081214)
 > + [MySQL数据库安装步骤及报错1251解决方案](https://blog.csdn.net/weixin_53182715/article/details/123591762)
-
+ 
 ## Linux相关工具安装与配置
 > ## 1.VMware破解版下载、安装
 > + [VMware Workstation Pro v16.2.0 官方完整版(附永久激活密钥)](http://www.usbmi.com/932.html)
