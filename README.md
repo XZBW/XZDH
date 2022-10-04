@@ -236,6 +236,10 @@
 > ## Mybatis基础使用
 > + [mybatis 批量更新update详解](https://blog.csdn.net/yjaspire/article/details/81316885) 
 
+## Mybaits-Plus
+> + [Mybaits-Plus官网](https://baomidou.com/)
+
+
 ## Mysql
 > ## union默认是并集去重,union all是并集不去重
 
