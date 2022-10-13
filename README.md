@@ -102,6 +102,20 @@
 > + [RabbitMQ集群实现镜像队列(高可用)](https://blog.csdn.net/xiangjunyes/article/details/121929924?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7EOPENSEARCH%7ERate-1-121929924-blog-46380631.pc_relevant_multi_platform_whitelistv4&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7EOPENSEARCH%7ERate-1-121929924-blog-46380631.pc_relevant_multi_platform_whitelistv4&utm_relevant_index=1)
 > + [RabbitMQ联邦交换机/队列 + Shovel](https://blog.csdn.net/IT_Holmes/article/details/124996212)
 
+
+## GitHub/GitTree
+> + [Git常用命令](https://blog.csdn.net/qq_38111015/article/details/84885809)
+> + ## git拉取项目
+> + git拉项目,可以用传统的idea git 去拉，如果不行可以自己新建目录 用 gitbase 输入指令去拉取项目。拉取命令 - git clone 项目URL
+
+
+
+## Maven
+> + maven项目没有自动识别可以手动打开maven文件
+> + [IDEA不识别Maven项目](https://blog.csdn.net/m0_67402774/article/details/126718840)
+> + [idea右边找不到maven窗口不见了](https://blog.csdn.net/m0_67391121/article/details/123632847)
+
+
 ## JAVA
 > ## JDK8新特性（[相关链接](https://blog.csdn.net/LXYDSF/article/details/125919046)）
 > + 增加了新的语法：Lambda 表达式、函数式接口、方法引用与构造器引用等...（[jdk8 新特性汇总](https://blog.csdn.net/zykwblx/article/details/125959421)）
