@@ -27,10 +27,16 @@
 > + [RabbitMQ面试题](https://blog.csdn.net/m0_68102173/article/details/124299647)
 > + [Mysql面试题](https://blog.csdn.net/m0_58479954/article/details/124741331)
 > + [Mybatis面试题](https://blog.csdn.net/m0_58479954/article/details/124852560) 
-  
- 
+
+
+## IDEA 
+> + [IDEA文件编码格式修改](https://blog.csdn.net/weixin_64893448/article/details/126688131)
+> + [IDEA导入Eclipse项目](https://blog.csdn.net/qq_41956221/article/details/117157961)
+
+
 ## 数据库工具
 > + [Navicat](http://www.navicat.com.cn/download/navicat-for-mysql)
+
 
 ## Nginx负载均衡
 > ## 1.Nginx官网、下载、安装
