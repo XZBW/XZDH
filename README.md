@@ -257,7 +257,7 @@
 
 ## 数据库工具
 > + [Navicat](http://www.navicat.com.cn/download/navicat-for-mysql)
-
+> + [Navicat 16 破解](https://songzixian.com/javatool/1832.html)
 
 ## Mysql
 > ## union默认是并集去重,union all是并集不去重
