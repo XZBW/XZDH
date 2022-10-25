@@ -305,7 +305,8 @@
 > + [oracle 11g安装教程完整版](https://blog.csdn.net/qq_18854761/article/details/121379382)
 > + [安装oracle11g时遇到环境不满足最低要求](https://blog.csdn.net/lh756437907/article/details/97138315)
 > + [安装ORACLE时出现This test checks whether the length of the environment variable “PATH“ does not exceed th](https://blog.csdn.net/u010291898/article/details/124765003)
-
+> + [Oracle instant Client下载](https://www.oracle.com/database/technologies/instant-client/winx64-64-downloads.html#ic_winx64_inst)
+> + [Ora 28547连接服务器失败问题详解](https://blog.csdn.net/qq_38149535/article/details/107733554)
 
 ## Linux相关工具安装与配置
 > ## 1.VMware破解版下载、安装
