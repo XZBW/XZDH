@@ -34,10 +34,6 @@
 > + [IDEA导入Eclipse项目](https://blog.csdn.net/qq_41956221/article/details/117157961)
 
 
-## 数据库工具
-> + [Navicat](http://www.navicat.com.cn/download/navicat-for-mysql)
-
-
 ## Nginx负载均衡
 > ## 1.Nginx官网、下载、安装
 > + [Nginx官网下载](https://nginx.org/en/download.html)
@@ -114,7 +110,6 @@
 > + ## git拉取项目
 > + git拉项目,可以用传统的idea git 去拉，如果不行可以自己新建目录 用 gitbase 输入指令去拉取项目。拉取命令 - git clone 项目URL
 
- 
 
 ## Maven
 > + maven项目没有自动识别可以手动打开maven文件
@@ -260,6 +255,10 @@
 > + [Mybaits-Plus官网](https://baomidou.com/)
 
 
+## 数据库工具
+> + [Navicat](http://www.navicat.com.cn/download/navicat-for-mysql)
+
+
 ## Mysql
 > ## union默认是并集去重,union all是并集不去重
 
@@ -298,7 +297,16 @@
 > + [连接Mysql出现时区对不上(The server time zone value '?й???????')报错](https://blog.csdn.net/mk1843109092/article/details/102652767)
 > + [MySQL错误ERROR 1046 (3D000): No database selected解决方案](https://blog.csdn.net/qq_43128354/article/details/120081214)
 > + [MySQL数据库安装步骤及报错1251解决方案](https://blog.csdn.net/weixin_53182715/article/details/123591762)
- 
+
+
+## Oracle
+> + ## 1.Oracle官网、下载、安装
+> + [Oracle官网](https://www.oracle.com/downloads/)
+> + [oracle 11g安装教程完整版](https://blog.csdn.net/qq_18854761/article/details/121379382)
+> + [安装oracle11g时遇到环境不满足最低要求](https://blog.csdn.net/lh756437907/article/details/97138315)
+> + [安装ORACLE时出现This test checks whether the length of the environment variable “PATH“ does not exceed th](https://blog.csdn.net/u010291898/article/details/124765003)
+
+
 ## Linux相关工具安装与配置
 > ## 1.VMware破解版下载、安装
 > + [VMware Workstation Pro v16.2.0 官方完整版(附永久激活密钥)](http://www.usbmi.com/932.html)
