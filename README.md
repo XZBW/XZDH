@@ -30,6 +30,7 @@
 
 
 ## IDEA 
+> + [IDEA最新永久激活码激活教程](https://www.955code.com/768.html)
 > + [IDEA文件编码格式修改](https://blog.csdn.net/weixin_64893448/article/details/126688131)
 > + [IDEA导入Eclipse项目](https://blog.csdn.net/qq_41956221/article/details/117157961)
 
@@ -258,6 +259,8 @@
 ## 数据库工具
 > + [Navicat](http://www.navicat.com.cn/download/navicat-for-mysql)
 > + [Navicat 16 破解](https://songzixian.com/javatool/1832.html)
+> + [navicat 导入dmp文件](https://blog.csdn.net/logwto/article/details/126222586)
+
 
 ## Mysql
 > ## union默认是并集去重,union all是并集不去重
@@ -307,6 +310,12 @@
 > + [安装ORACLE时出现This test checks whether the length of the environment variable “PATH“ does not exceed th](https://blog.csdn.net/u010291898/article/details/124765003)
 > + [Oracle instant Client下载](https://www.oracle.com/database/technologies/instant-client/winx64-64-downloads.html#ic_winx64_inst)
 > + [Ora 28547连接服务器失败问题详解](https://blog.csdn.net/qq_38149535/article/details/107733554)
+> + ## 2.Oracle基础命令、新增用户、解锁用户等
+> + [Oracle创建用户、角色、授权、建表](https://blog.csdn.net/zhao05164313/article/details/124172838)
+> + [Oracle创建用户过程详解](https://www.jb51.net/article/219713.htm)
+> + [Oracle 11g中 ORA-28000 账号被锁定的解决办法](https://blog.csdn.net/weixin_43199692/article/details/125244838)
+> + [Oracle 11g中 system账号被锁定无法解锁时可用sys用户解锁](https://blog.csdn.net/u012004128/article/details/80781979)
+
 
 ## Linux相关工具安装与配置
 > ## 1.VMware破解版下载、安装
