@@ -35,7 +35,7 @@
 > + [IDEA文件编码格式修改](https://blog.csdn.net/weixin_64893448/article/details/126688131)
 > + [IDEA导入Eclipse项目](https://blog.csdn.net/qq_41956221/article/details/117157961)
 
-
+ 
 ## Nginx负载均衡
 > ## 1.Nginx官网、下载、安装
 > + [Nginx官网下载](https://nginx.org/en/download.html)
