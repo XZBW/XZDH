@@ -304,6 +304,8 @@
 
 
 ## Oracle
+> + ## Oracle常见问题
+> + [删除表或存储过程函数等出现ERROR：ORA-04098问题解决（alter system set "_system_trig_enabled"=FALSE;）](https://blog.csdn.net/cuibai1991/article/details/100330900)
 > + ## 1.Oracle官网、下载、安装
 > + [Oracle官网](https://www.oracle.com/downloads/)
 > + [oracle 11g安装教程完整版](https://blog.csdn.net/qq_18854761/article/details/121379382)
