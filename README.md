@@ -264,6 +264,10 @@
 
 ## 数据库工具PLSQL
 > + [PLSQL官方下载](https://www.allroundautomations.com/registered-plsqldev/)
+> + [PLSQL14-15版本破解码](https://www.cnblogs.com/Fzzf1/p/16570969.html)
+> + product code: ke4tv8t5jtxz493kl8s2nn3t6xgngcmgf3
+> + serial Number: 264452
+> + password: xs374ca
 
 
 ## Mysql
