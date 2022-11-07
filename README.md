@@ -1,14 +1,14 @@
 >不定期分享一些与后端相关不错的资源学习网站
- 
+
 ## Markdown
 - [Markdown语法](https://www.cnblogs.com/miki-peng/p/12502985.html)
-   
+
 ## 社区
 - [stackoverflow](https://stackoverflow.com/)
 - [掘金](https://juejin.cn/)
 - [NODE中文社区](https://cnodejs.org/)
 - [Processon免费在线流程图思维导图](https://processon.com/)
-   
+
 ## 加油打工人！！！
 > + [高并发面试题](https://blog.csdn.net/qianzhitu/article/details/108488876)
 > + [分布式面试题](https://blog.csdn.net/libaowen609/article/details/125131974)
@@ -28,14 +28,14 @@
 > + [Mysql面试题](https://blog.csdn.net/m0_58479954/article/details/124741331)
 > + [Mybatis面试题](https://blog.csdn.net/m0_58479954/article/details/124852560) 
 
-  
+
 ## IDEA 
 > + [IDEA官方各版本下载](https://www.jetbrains.com/zh-cn/idea/download/other.html)
 > + [IDEA最新永久激活码激活教程](https://www.955code.com/768.html)
 > + [IDEA文件编码格式修改](https://blog.csdn.net/weixin_64893448/article/details/126688131)
 > + [IDEA导入Eclipse项目](https://blog.csdn.net/qq_41956221/article/details/117157961)
 
- 
+
 ## Nginx负载均衡
 > ## 1.Nginx官网、下载、安装
 > + [Nginx官网下载](https://nginx.org/en/download.html)
@@ -69,7 +69,7 @@
 > + 路由
 > + 主题
 > + 发布确认
- 
+
 > ## 1.初始RabbitMQ
 > + [RabbitMQ官网下载](https://rabbitmq.com/download.html)
 > + [RabbitMQ详解](https://blog.csdn.net/qq_48721706/article/details/125194646)
