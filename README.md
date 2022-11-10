@@ -117,7 +117,7 @@
 > + maven项目没有自动识别可以手动打开maven文件
 > + [IDEA不识别Maven项目](https://blog.csdn.net/m0_67402774/article/details/126718840)
 > + [idea右边找不到maven窗口不见了](https://blog.csdn.net/m0_67391121/article/details/123632847)
-
+> + [Maven出现子项目jar包路径正确却unknown处理（Cannot resolve xxxx(依赖名):unknown）](https://blog.csdn.net/wwwwwww31311/article/details/122287281)
 
 ## JAVA
 > ## JDK8新特性（[相关链接](https://blog.csdn.net/LXYDSF/article/details/125919046)）
