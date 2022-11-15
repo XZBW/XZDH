@@ -54,7 +54,7 @@
 > + [Nginx入门：反向代理、负载均衡、动静分离](https://blog.csdn.net/qq_33491651/article/details/124123952)
 > + [Nginx+keepalived 高可用双机热备（主从模式/双主模式）](https://blog.csdn.net/qq_25430563/article/details/108835063)
 
-
+ 
 ## 中间件RabbitMQ详解
 > ## 使用消息队列MQ的优点？ 
 > + 1.应用解耦：发送一个消息到MQ，其他系统监听MQ，只要消息还在MQ，某些服务挂了后面恢复正常依旧可以消费这个消息。（若不使用MQ则一个服务挂了就无法继续。）
