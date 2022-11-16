@@ -110,7 +110,13 @@
 > + [RabbitMQ联邦交换机/队列 + Shovel](https://blog.csdn.net/IT_Holmes/article/details/124996212)
 
 
+## SVN
+> + [SVN官网下载](https://tortoisesvn.net/downloads.html)
+> + [SVN下载安装](https://blog.csdn.net/qq_20236937/article/details/118958965)
+
+
 ## GitHub/GitTree
+> + [GIT下载安装](https://blog.csdn.net/weixin_47638941/article/details/120632890)
 > + [Git常用命令](https://blog.csdn.net/qq_38111015/article/details/84885809)
 > + ## git拉取项目
 > + git拉项目,可以用传统的idea git 去拉，如果不行可以自己新建目录 用 gitbase 输入指令去拉取项目。拉取命令 - git clone 项目URL
@@ -123,7 +129,9 @@
 > + [Maven出现子项目jar包路径正确却unknown处理（Cannot resolve xxxx(依赖名):unknown）](https://blog.csdn.net/wwwwwww31311/article/details/122287281)
 
 ## JAVA
+
 > ## JDK8新特性（[相关链接](https://blog.csdn.net/LXYDSF/article/details/125919046)）
+> + [JDK8安装及配置环境变量](https://tortoisesvn.net/downloads.html)
 > + 增加了新的语法：Lambda 表达式、函数式接口、方法引用与构造器引用等...（[jdk8 新特性汇总](https://blog.csdn.net/zykwblx/article/details/125959421)）
 
 > ## Java设计模式（单例、工厂、代理、建造者、模板方法、原型、策略）需补充！
