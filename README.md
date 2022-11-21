@@ -114,7 +114,7 @@
 ## SVN
 > + [SVN官网下载](https://tortoisesvn.net/downloads.html)
 > + [SVN下载安装](https://blog.csdn.net/qq_20236937/article/details/118958965)
-
+> + [svn——无法使用Subversion命令行客户端（Can‘t use Subversion command line client:svn）](https://blog.csdn.net/weixin_43361722/article/details/119325643)
 
 ## GitHub/GitTree
 > + [GIT下载安装](https://blog.csdn.net/weixin_47638941/article/details/120632890)
