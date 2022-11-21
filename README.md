@@ -276,6 +276,7 @@
 
 ## 数据库工具PLSQL
 > + [PLSQL官方下载](https://www.allroundautomations.com/registered-plsqldev/)
+> + [PLSQL设置中文字体](https://jingyan.baidu.com/article/d5c4b52b8b6e449b560dc5ad.html)
 > + [PLSQL14-15版本破解码](https://www.cnblogs.com/Fzzf1/p/16570969.html)
 > + product code: ke4tv8t5jtxz493kl8s2nn3t6xgngcmgf3
 > + serial Number: 264452
