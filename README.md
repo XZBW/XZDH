@@ -38,7 +38,7 @@
 > + [IDEA最新永久激活码激活教程](https://www.955code.com/768.html)
 > + [IDEA文件编码格式修改](https://blog.csdn.net/weixin_64893448/article/details/126688131)
 > + [IDEA导入Eclipse项目](https://blog.csdn.net/qq_41956221/article/details/117157961)
-
+> + [IDEA界面切换中文](https://blog.csdn.net/weixin_44759556/article/details/124587458)
 
 ## Nginx负载均衡
 > ## 1.Nginx官网、下载、安装
