@@ -116,11 +116,17 @@
 > + [SVN下载安装](https://blog.csdn.net/qq_20236937/article/details/118958965)
 > + [svn——无法使用Subversion命令行客户端（Can‘t use Subversion command line client:svn）](https://blog.csdn.net/weixin_43361722/article/details/119325643)
 
+
 ## GitHub/GitTree
 > + [GIT下载安装](https://blog.csdn.net/weixin_47638941/article/details/120632890)
 > + [Git常用命令](https://blog.csdn.net/qq_38111015/article/details/84885809)
 > + ## git拉取项目
 > + git拉项目,可以用传统的idea git 去拉，如果不行可以自己新建目录 用 gitbase 输入指令去拉取项目。拉取命令 - git clone 项目URL
+> + [git中报unable to auto-detect email address 错误的解决方法](https://blog.csdn.net/liufangbaishi2014/article/details/50037507)
+> + git config --global user.email "email"
+> + git config --global user.name "name"
+> + [IDEA中merge分支时提示refusing to merged unrelated histories](https://blog.csdn.net/aiwaston/article/details/117738262)
+> + [切分支遇到Move or commit them before checkout问题解决](https://blog.csdn.net/HBella/article/details/100669009)
 
 
 ## Maven
