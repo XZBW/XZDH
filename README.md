@@ -130,6 +130,8 @@
 
 
 ## Maven
+> + [Maven官网下载](https://maven.apache.org/download.cgi)
+> + [Idea Maven配置](https://www.cnblogs.com/ckfuture/p/15821541.html)
 > + maven项目没有自动识别可以手动打开maven文件
 > + [IDEA不识别Maven项目](https://blog.csdn.net/m0_67402774/article/details/126718840)
 > + [idea右边找不到maven窗口不见了](https://blog.csdn.net/m0_67391121/article/details/123632847)
@@ -316,6 +318,8 @@
 
 > ## 1.mysql相关内容
 > + [Mysql官网](https://www.mysql.com/)
+> + [MYsql官方下载](https://downloads.mysql.com/archives/installer/)
+> + [MySQL安装及配置教程](https://blog.csdn.net/weixin_50498482/article/details/124315351)
 > + [linux环境中执行Mysql脚本](https://www.cnblogs.com/bulesea/p/16490020.html)
 > + [关于sql和MySQL的语句执行顺序(1.from、2.on、3.join、4.where、5.group by、6.avg,sum...、7.having、8.select、9.distinct、10.order by、11.limit)](https://blog.csdn.net/u014044812/article/details/51004754/)
 > ## 2.Mysql调优
