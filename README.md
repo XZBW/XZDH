@@ -42,7 +42,8 @@
 > + [IDEA界面切换中文](https://blog.csdn.net/weixin_44759556/article/details/124587458)
 > + [IDEA2022开发配置最佳配置（字符编码、自动编译、注释风格、过滤文件、maven配置、字体）](https://blog.csdn.net/sinat_27933301/article/details/83903199)
 > + [IDEA工具（阿里巴巴）代码规范检查插件](https://blog.csdn.net/Monsterof/article/details/108239250)
-
+> + [IDEA配置数据库工具](https://blog.csdn.net/a15608445683/article/details/123167066)
+> + [IDEA安装Mybatis log（sql执行日志插件）](https://blog.csdn.net/weixin_39183923/article/details/127806127)
 
 ## Nginx负载均衡
 > ## 1.Nginx官网、下载、安装
