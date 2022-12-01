@@ -280,7 +280,9 @@
 ## 数据库工具Navicat
 > + [Navicat](http://www.navicat.com.cn/download/navicat-for-mysql)
 > + [Navicat 16 破解](https://songzixian.com/javatool/1832.html)
-> + [navicat 导入dmp文件](https://blog.csdn.net/logwto/article/details/126222586)
+> + [Navicat 导入dmp文件](https://blog.csdn.net/logwto/article/details/126222586)
+> + [Navicat Mysql 字段设置默认时间与修改默认更新时间](http://t.zoukankan.com/sands-p-10442067.html)
+
 
 ## 数据库工具PLSQL
 > + [PLSQL官方下载](https://www.allroundautomations.com/registered-plsqldev/)
