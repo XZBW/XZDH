@@ -280,7 +280,7 @@
 
 ## Mybaits-Plus
 > + [Mybaits-Plus官网](https://baomidou.com/)
-
+> + [Mybatis-plus开启sql日志打印](https://blog.csdn.net/qq_41995919/article/details/124994808)
 
 ## 数据库工具Navicat
 > + [Navicat](http://www.navicat.com.cn/download/navicat-for-mysql)
