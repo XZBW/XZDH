@@ -78,7 +78,7 @@
 > + 路由
 > + 主题
 > + 发布确认
-
+ 
 > ## 1.初始RabbitMQ
 > + [RabbitMQ官网下载](https://rabbitmq.com/download.html)
 > + [RabbitMQ详解](https://blog.csdn.net/qq_48721706/article/details/125194646)
