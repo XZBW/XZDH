@@ -529,5 +529,12 @@
 > + [Seata1.5版本搭建,结合nacos](https://www.jianshu.com/p/37c3640284cc)
 > + [Seata1.5版本搭建Could not create connection to database server解决方法](https://blog.csdn.net/NO1_UNDERDOG/article/details/110675147)
 > + [Seata0.9.0版本搭建Could not create connection to database server解决方法](https://blog.csdn.net/stephen_curry300/article/details/121585707)
-          
-   
+
+
+## Node.js
+> + [Nodejs详细安装+环境配置](https://www.cnblogs.com/wanpi/p/16119433.html)
+> + [解决Node js error -4048错误](https://blog.csdn.net/qq_44824148/article/details/112556127)
+
+## Vue
+
+
