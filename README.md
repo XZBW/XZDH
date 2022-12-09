@@ -34,6 +34,8 @@
 > + [自己搭服务启动时遇到（Error creating bean with name 'configDataContextRefresher' defined in class path resource）boot版本依赖问题解决](https://blog.csdn.net/weixin_42194695/article/details/126075898)
 > + [Lombok TableField注解 用来解决实体类中有的属性但是数据表中没有的字段](https://www.cnblogs.com/tszr/p/16282003.html)
 > + [SpringBoot 老鸟系列，带你从0开始定制项目脚手架](https://github.com/jianzh5/cloud-blog/)
+> + [SpringBoot 统一公共返回类的实现](https://www.zhangshengrong.com/p/pDXBmw4GNP/)
+
 
 ## IDEA 
 > + [IDEA官方各版本下载](https://www.jetbrains.com/zh-cn/idea/download/other.html)
