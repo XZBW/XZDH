@@ -35,6 +35,7 @@
 > + [Lombok TableField注解 用来解决实体类中有的属性但是数据表中没有的字段](https://www.cnblogs.com/tszr/p/16282003.html)
 > + [SpringBoot 老鸟系列，带你从0开始定制项目脚手架](https://github.com/jianzh5/cloud-blog/)
 > + [SpringBoot 统一公共返回类的实现](https://www.zhangshengrong.com/p/pDXBmw4GNP/)
+> + [SpringCloud Gateway简单搭建](https://blog.csdn.net/csl12919/article/details/127966279)
 
 
 ## IDEA 
@@ -180,6 +181,9 @@
 
 > + ## 相关链接
 > + [接口和抽象类的区别，重载和重写的区别](https://blog.csdn.net/qq_55931917/article/details/123829613)
+> + [Java线程获取返回值方法](https://qqe2.com/java/post/4175.html)
+> + [Java多线程 传递参数 启动50个线程，每个线程处理10条数据](https://blog.csdn.net/zhengTornado/article/details/107923278)
+
 
 > ## JAVA集合
 > + ## JAVA集合一共有3种（List、set、Map）
