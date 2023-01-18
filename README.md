@@ -36,6 +36,7 @@
 > + [Mysql面试题](https://blog.csdn.net/m0_58479954/article/details/124741331)
 > + [Mybatis面试题](https://blog.csdn.net/m0_58479954/article/details/124852560) 
 
+
 ## 服务搭建
 > + [自己搭服务启动时遇到（Error creating bean with name 'configDataContextRefresher' defined in class path resource）boot版本依赖问题解决](https://blog.csdn.net/weixin_42194695/article/details/126075898)
 > + [Lombok TableField注解 用来解决实体类中有的属性但是数据表中没有的字段](https://www.cnblogs.com/tszr/p/16282003.html)
@@ -73,7 +74,7 @@
 > + [Nginx入门：反向代理、负载均衡、动静分离](https://blog.csdn.net/qq_33491651/article/details/124123952)
 > + [Nginx+keepalived 高可用双机热备（主从模式/双主模式）](https://blog.csdn.net/qq_25430563/article/details/108835063)
 
- 
+
 ## 中间件RabbitMQ详解
 > ## 使用消息队列MQ的优点？ 
 > + 1.应用解耦：发送一个消息到MQ，其他系统监听MQ，只要消息还在MQ，某些服务挂了后面恢复正常依旧可以消费这个消息。（若不使用MQ则一个服务挂了就无法继续。）
