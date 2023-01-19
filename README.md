@@ -498,6 +498,7 @@
 > + [Spring-Cloud-ALibaba官方文档](https://spring.io/projects/spring-cloud-alibaba)
 > + [spring-cloud组件版本关系说明](https://github.com/alibaba/spring-cloud-alibaba/wiki/%E7%89%88%E6%9C%AC%E8%AF%B4%E6%98%8E)
 
+
 ## Spring-Cloud-ALibaba(Nacos服务注册发现)
 > ## 什么是Nacos
 > + Nacos的就是一个注册中心,用来发现、配置和管理微服务。
@@ -509,6 +510,7 @@
 > + [Nacos的AP与CP模式的切换](https://blog.csdn.net/jmysql/article/details/123827680)（Consistency（一致性）、 Availability（可用性）、Partition tolerance（分区容错性））
 > + [Nacos配置Mysql的相关配置](https://blog.csdn.net/qq_21299835/article/details/120935616)
 > + [Nacos+Mysql部署环境(单机、集群、多集群)](https://nacos.io/zh-cn/docs/deployment.html)
+
 
 ## Sentinel分布式系统的流量防卫兵(面向分布式的轻量级高可用流量控制组件)
 > ## 1.Sentine文档、下载、启动
