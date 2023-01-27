@@ -58,7 +58,7 @@
 > + [IDEA中删除项目中的Module后，maven projects仍有依赖](https://blog.csdn.net/m0_67401134/article/details/126719396)
 > + [maven项目从idea上删除后，项目名称依然被占用的解决办法](https://blog.csdn.net/u012643122/article/details/125892137)
 
-
+   
 ## Nginx负载均衡
 > ## 1.Nginx官网、下载、安装
 > + [Nginx官网下载](https://nginx.org/en/download.html)
