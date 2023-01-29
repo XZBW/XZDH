@@ -356,6 +356,8 @@
 > + [连接Mysql出现时区对不上(The server time zone value '?й???????')报错](https://blog.csdn.net/mk1843109092/article/details/102652767)
 > + [MySQL错误ERROR 1046 (3D000): No database selected解决方案](https://blog.csdn.net/qq_43128354/article/details/120081214)
 > + [MySQL数据库安装步骤及报错1251解决方案](https://blog.csdn.net/weixin_53182715/article/details/123591762)
+> + [Public Key Retrieval is not allowed解决(后端配置文件)](https://blog.csdn.net/weixin_55599565/article/details/125140094)
+> + [Public Key Retrieval is not allowed解决(mysql数据库客户端)](https://blog.csdn.net/nsqk0211/article/details/125272736)
 
 
 ## Oracle
