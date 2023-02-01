@@ -554,7 +554,14 @@
 > + [Seata0.9.0版本搭建Could not create connection to database server解决方法](https://blog.csdn.net/stephen_curry300/article/details/121585707)
 
 
-## Node.js
+## 前端生态区
+
+> ## 安装命令
+> + [cnpm安装] npm install -g cnpm --registry=https://registry.npm.taobao.org
+> + [全局安装 vue-cli] npm install --global vue-cli
+
+
+> ## Node.js
 > + [Node.js官方下载](http://nodejs.cn/download/)
 > + [Nodejs详细安装+环境配置](https://www.cnblogs.com/wanpi/p/16119433.html)
 > + [解决Node js error -4048错误](https://blog.csdn.net/qq_44824148/article/details/112556127)
@@ -562,11 +569,23 @@
 > + [SpringBoot+Vue 项目实战](https://blog.csdn.net/qq_43659234/article/details/118229011)
 > + [npm和cnpm下载安装及VUE的创建](https://blog.csdn.net/xiaochen_2715/article/details/125401413)
 
-> ## 安装命令
-> + [cnpm安装] npm install -g cnpm --registry=https://registry.npm.taobao.org
-> + [全局安装 vue-cli] npm install --global vue-cli
 
-
-## Vue
+> ## Vue
 > + [IDEA中Vue的安装和使用](https://www.cnblogs.com/yayuya/p/16559524.html)
+
+
+> ## Tdesign腾讯开源企业级设计体系
+> + [Tdesign官网](https://tdesign.tencent.com/)
+> + [Tdesign-Vue](https://tdesign.tencent.com/vue/getting-started)
+> + [Tdesign-Vue Next官方文档](https://tdesign.tencent.com/vue-next/getting-started)
+
+> ## Pinia-Vue储存库
+> + [Pinia官网](https://pinia.web3doc.top/getting-started.html)
+
+
+> ## TailwindCss css库
+> + [TailwindCss官网](https://www.tailwindcss.cn/docs/installation)
+
+
+
 
