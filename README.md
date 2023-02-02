@@ -556,6 +556,11 @@
 
 ## 前端生态区
 
+> ## VsCode
+> + [VScode实现分屏显示浏览器（一边写前端代码一边可以实时查看结果）](https://blog.csdn.net/liuyunye/article/details/123287046)
+> + [在VScode中如何将界面语言设置为中文](https://jingyan.baidu.com/article/64d05a023e7a479f54f73b03.html)
+
+
 > ## 安装命令
 > + [cnpm安装] npm install -g cnpm --registry=https://registry.npm.taobao.org
 > + [全局安装 vue-cli] npm install --global vue-cli
@@ -572,7 +577,6 @@
 
 > ## Vue
 > + [IDEA中Vue的安装和使用](https://www.cnblogs.com/yayuya/p/16559524.html)
-
 
 > ## Tdesign腾讯开源企业级设计体系
 > + [Tdesign官网](https://tdesign.tencent.com/)
