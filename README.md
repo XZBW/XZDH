@@ -577,7 +577,7 @@
 
 > ## Vue
 > + [IDEA中Vue的安装和使用](https://www.cnblogs.com/yayuya/p/16559524.html)
-
+> + [Component name “Index“ should always be multi-word 报错原因为文件命名不符合规范，必须改成驼峰规范。](https://blog.csdn.net/alzhuzhu/article/details/127491367)
 > ## Tdesign腾讯开源企业级设计体系
 > + [Tdesign官网](https://tdesign.tencent.com/)
 > + [Tdesign-Vue](https://tdesign.tencent.com/vue/getting-started)
