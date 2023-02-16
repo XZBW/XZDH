@@ -134,6 +134,7 @@
 ## SVN
 > + [SVN官网下载](https://tortoisesvn.net/downloads.html)
 > + [SVN下载安装](https://blog.csdn.net/qq_20236937/article/details/118958965)
+> + [SVN提交报错:Error:svn: E170013: Unable to connect to a repository at URL](https://blog.csdn.net/zzw_17600691357/article/details/116257725)
 > + [svn——无法使用Subversion命令行客户端（Can‘t use Subversion command line client:svn）](https://blog.csdn.net/weixin_43361722/article/details/119325643)
 > + [SVN提交报错 Commit blocked by pre-commit hook (exit code 1) with output](https://blog.csdn.net/weixin_34362875/article/details/85942257?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-85942257-blog-53213821.pc_relevant_3mothn_strategy_recovery&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-85942257-blog-53213821.pc_relevant_3mothn_strategy_recovery&utm_relevant_index=1)
 
