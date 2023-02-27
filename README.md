@@ -285,6 +285,9 @@
 > ## 知识点
 > + [分布式架构知识体系](https://blog.csdn.net/IT1124/article/details/122384828)
 > + [JAVA高效率 (秒级) 将千万条数据导入数据库 ](https://blog.csdn.net/m0_55710969/article/details/121117481)
+> + [log.error()打印内容区别](https://blog.csdn.net/jiangyyyeff/article/details/122580977)
+> + [log.error打印异常堆栈问题](https://blog.csdn.net/renzhe1301/article/details/121268510)
+
 
 ## Mybatis
 > ## MyBatis缓存（[相关链接](https://blog.csdn.net/weixin_47404925/article/details/123113600)）
