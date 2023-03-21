@@ -595,5 +595,7 @@
 > + [TailwindCss官网](https://www.tailwindcss.cn/docs/installation)
 
 
+> ## js
+> + [解决js setTimeout 失效](https://www.cnblogs.com/liuyjui/p/14144262.html)
 
 
