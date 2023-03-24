@@ -597,5 +597,5 @@
 
 > ## js
 > + [解决js setTimeout 失效](https://www.cnblogs.com/liuyjui/p/14144262.html)
-
+> + [jQuery-Ajax-Timeout属性不生效的问题](https://blog.csdn.net/mazeyqian/article/details/72312414)
 
