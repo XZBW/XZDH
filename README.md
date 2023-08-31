@@ -397,6 +397,7 @@
 > + [Linux目录解析之/usr与/opt与/dev](https://blog.csdn.net/w2009211777/article/details/123853355)
 > + [Linux中常用命令](https://blog.csdn.net/qq_40649503/article/details/123677656)
 > + [Linux-vim快捷键](https://blog.csdn.net/sinat_36670490/article/details/118500419)
+> + [Linux curl命令最全详解](https://blog.csdn.net/angle_chen123/article/details/120675472)
 > ## Linux运维
 > + Linux上部署项目命令：nohup java -jar jar包所在路径/xxx.jar > 要放日志文件的地址/.log &
 > + [Linux常用命令学习---将项目部署到测试环境的几个常用命令](https://blog.csdn.net/sunshine_girl_huihui/article/details/123665139)
