@@ -4,7 +4,7 @@
 - [Markdown语法](https://www.cnblogs.com/miki-peng/p/12502985.html)
 
       
-## 社区 
+## 社区  
 - [stackoverflow](https://stackoverflow.com/) 
 - [掘金](https://juejin.cn/)
 - [NODE中文社区](https://cnodejs.org/)
